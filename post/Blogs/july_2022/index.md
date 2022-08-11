@@ -5,20 +5,19 @@ date = "2022-08-11"
 slug = "blog-july-2022"
 description = "Latest News on The Meta AI : Greater creative control for AI image generation and more"
 categories = [
-    "Events"
+    "Blogs"
 ]
 tags = ["Blog"]
 image = "b1.jpg"
 lastmod = '2022-08-11'
 +++
 
- ######  July 2022
 In this world of fast-paced progress, everyday we try to find out new updates, new features and new inventions that are shaping our future life like never before. Day by day, the information surrounding us increases, bombarding us with bits only to be forgotten or missed leaving us completely overwhelmed in the process .
 
 By collecting & organizing the data, we have built tools to build models and generate AI that have started to pop in the real world. Lots of people consider AI as an evolutionary change in human life, which is quite debatable. But collecting knowledge about all the new changes is still possible for us.
 
 Thus, the main goal of the blog is to summarize information about the latest updates coming related to AI/DS/ML. These changes to these key technologies are changing the direction of progress thus creating great opportunities.
- # **The Meta AI : Greater creative control for AI image generation**
+## **The Meta AI : Greater creative control for AI image generation**
 
 14 July, 2022 Meta AI published the AI research concept known as Make-A-Scene. Make-A-Scene had the potential to empower the imagination into a life. 
 
@@ -28,7 +27,7 @@ Thus, the main goal of the blog is to summarize information about the latest upd
 <div align="center">
 To overcome this problem the scientist starts working on the sketch part so if a non-artist draws anything he can get the output that they are imagining.</div>
 
-# **Smart textiles sense how their users are moving**
+## **Smart textiles sense how their users are moving**
 07 July, 2022 MIT Researchers developed a comfortable, form-fitting fabric that recognizes its wearer’s activities, like walking, running, and jumping.
 
 ![enter image description here](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202207/MIT_3D-Knits-01-PRESS_0.jpg?itok=3-78GaXN)
@@ -39,7 +38,7 @@ Using a novel fabrication process, MIT researchers have produced smart textiles 
 
 The technique could have many applications, especially in health care and rehabilitation. For example, it could be used to produce smart shoes that track the gait of someone who is learning to walk again after an injury, or socks that monitor pressure on a diabetic patient’s foot to prevent the formation of ulcers.
 
-# **ML-Enhanced Code Completion Improves Developer Productivity**
+## **ML-Enhanced Code Completion Improves Developer Productivity**
 
 Today we describe how we combined ML and SE to develop a novel Transformer-based hybrid semantic ML code completion, now available to internal Google developers.
 
@@ -49,8 +48,7 @@ The increasing complexity of code poses a key challenge to productivity in softw
 <div align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF3-J_lvEG2eJ1Tgypq_kisxte9X2VbDAVnlS5J2b7JIV4Iv_6WJIPcBp78bPP6ZeXZuv3libP_IzsYJbUQwirfjGRWiKSAH3-6GnaKZEqSeH6_neQyGHdeI9PhItukRTeUMcVYQB9c2TOXbQd01roh-X2PZlCJM53CEgeWZeer0vA1krUnekFNHucuQ/s509/image1.png"></div>
 
 A common approach to code completion is to train transformer models, which use a self-attention mechanism for language understanding, to enable code understanding and completion predictions. We treat code similar to language, represented with sub-word tokens and a SentencePiece vocabulary, and use encoder-decoder transformer models running on TPUs to make completion predictions. The input is the code that is surrounding the cursor (~1000-2000 tokens) and the output is a set of suggestions to complete the current or multiple lines. Sequences are generated with a beam sea  rch (or tree exploration) on the decoder.
-
-# **DALL E 2 - OpenAI**
+## **DALL E 2 - OpenAI**
 
 The artificial intelligence research lab OpenAI revealed DALL-E 2, the successor to 2021’s DALL-E. Both AI systems can generate astounding images from natural-language text descriptions.
 ###### TEXT DESCRIPTION
