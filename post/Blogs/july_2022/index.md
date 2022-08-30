@@ -3,7 +3,7 @@ author = "Deexith"
 title = "july 2022"
 date = "2022-08-11"
 slug = "blog-july-2022"
-description = "Latest News on The Meta AI : Greater creative control for AI image generation and more"
+description = "Greater creative control for AI image generation and more"
 categories = [
     "Blogs"
 ]
@@ -22,7 +22,7 @@ Thus, the main goal of the blog is to summarize information about the latest upd
 
 14 July, 2022 Meta AI published the AI research concept known as Make-A-Scene. Make-A-Scene had the potential to empower the imagination into a life.
 
-![Image 1](https://scontent.fbom15-1.fna.fbcdn.net/v/t39.2365-6/290601794_1176479646540355_5132798628346215961_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=fgr3oadULsEAX-2nYpJ&_nc_ht=scontent.fbom15-1.fna&oh=00_AT_tOYN8vHaRH2U4cxFAXO25yvs0B8oh8-0P73TFztb1tQ&oe=62FA80F4)
+![Image 1](https://github.com/Mind-Benders/blog-content/blob/main/post/Blogs/july_2022/img2.jpg?raw=true)
 
 <div  align="center">It can be hard to generate compositions of two different parts. If we consider the example ‘cat hanging to the tree’. This type of prediction may be hard for the model. The height of the tree is smaller than a cat or bigger than a cat, Is the cat hanging to the left side or right side, Is it facing upside or downside. So reflection of image won't be the solution of this perdition.</div>
 
