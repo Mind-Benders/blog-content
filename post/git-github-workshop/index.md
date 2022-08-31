@@ -1,11 +1,10 @@
 ---
-author: "Kunal"
-title: "Git & Github Workshop"
+author: Kunal
+title: Git & Github Workshop
 date: "2022-07-05"
-description: "Git & Github Workshop at TCET"
-categories: ["Events"]
-tags: []
-image: "poster.jpeg"
+description: Git & Github Workshop at TCET
+categories: [Events]
+image: poster.jpeg
 lastmod: '2022-07-09'
 ---
 

@@ -1,13 +1,15 @@
 ---
-author: "Deexith, Kunal, Keval"
-title: "This Month in AI - July 2022"
+author: [Deexith, Kunal, Keval]
+title: This Month in AI - July 2022
 date: "2022-08-11"
-slug: "blog-july-2022"
-description: "Latest News & Breakthroughs in the Month of July 2022 in AI"
-categories: ["Blog"]
-tags: ["Month in AI"]
-image: "OpenAI_asto.jpg"
-lastmod: '2022-08-11'
+slug: tmai-july-2022
+description: Latest News & Breakthroughs in the Month of July 2022 in AI
+categories: [Blog]
+tags: [Month in AI]
+image: OpenAI_asto.jpg
+lastmod: "2022-08-31"
+aliases: [blog-july-2022]
+
 ---
 
 In this world of fast-paced progress, everyday we try to find out new updates, new features and new inventions that are shaping our future life like never before. Day by day, the information surrounding us increases, bombarding us with bits only to be forgotten or missed leaving us completely overwhelmed in the process .
