@@ -1,7 +1,7 @@
 ---
-title: "Blogs"
+title: "Blog"
 description: "Latest Updates on Artificial Intelligence and Data Science"
-slug: "blogs"
+slug: "blog"
 image: "b2.png"
 style:
     background: "#ed7f2b"
