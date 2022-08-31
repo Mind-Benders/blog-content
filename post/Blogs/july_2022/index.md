@@ -1,16 +1,14 @@
-+++
-author = "Deexith, Kunal, Keval"
-title = "This Month in AI - July 2022"
-date = "2022-08-11"
-slug = "blog-july-2022"
-description = "Latest News & Breakthroughs in the Month of July 2022 in AI"
-categories = [
-    "Blog"
-]
-tags = ["Month in AI"]
-image = "b1.jpg"
-lastmod = '2022-08-11'
-+++
+---
+author: "Deexith, Kunal, Keval"
+title: "This Month in AI - July 2022"
+date: "2022-08-11"
+slug: "blog-july-2022"
+description: "Latest News & Breakthroughs in the Month of July 2022 in AI"
+categories: ["Blog"]
+tags: ["Month in AI"]
+image: "OpenAI_asto.jpg"
+lastmod: '2022-08-11'
+---
 
 In this world of fast-paced progress, everyday we try to find out new updates, new features and new inventions that are shaping our future life like never before. Day by day, the information surrounding us increases, bombarding us with bits only to be forgotten or missed leaving us completely overwhelmed in the process .
 
@@ -34,7 +32,7 @@ To overcome this problem the scientist starts working on the sketch part so if a
 
 ![ a sock made from the novel fabrication process ](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202207/MIT_3D-Knits-01-PRESS_0.jpg "A sock made from the novel fabrication process")
 
-![Workout Detection](maxresdefault.jpg)  ![Composition of Materials](MIT_3D-Knits-03-PRESS.jpg) 
+![Workout Detection](MIT_Train_detect.jpg)  ![Composition of Materials](MIT_3D-Knits-03-PRESS.jpg) 
 
 
 Using a novel fabrication process, MIT researchers have produced smart textiles that snugly conform to the body so they can sense the wearer’s posture and motions.
@@ -61,7 +59,7 @@ The artificial intelligence research lab OpenAI revealed DALL-E 2, the successor
 DALL·E is a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs. We’ve found that it has a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images.
 
 
-![An astronaut riding a horse in a photorealistic style](b1.jpg "An astronaut riding a horse in a photorealistic style")
+![An astronaut riding a horse in a photorealistic style](OpenAI_asto.jpg "An astronaut riding a horse in a photorealistic style")
 
 [^1]:  [https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/)
 [^2]:  [https://news.mit.edu/2022/smart-textiles-sense-movement-0707](https://news.mit.edu/2022/smart-textiles-sense-movement-0707)

@@ -1,15 +1,15 @@
-+++
-author = "Kunal"
-title = "Competitive Programming Workshop"
-date = "2022-07-27"
-description = "Hands-on Workshop on Competitive Programming"
-categories = [
+---
+author: "Kunal"
+title: "Competitive Programming Workshop"
+date: "2022-07-27"
+description: "Hands-on Workshop on Competitive Programming"
+categories: [
     "Events"
 ]
-tags = ["Workshop"]
-image = "cpj.jpg"
-lastmod = '2022-07-27'
-+++
+tags: ["Workshop"]
+image: "cpj.jpg"
+lastmod: '2022-07-27'
+---
 
 Get a head start in your career & learn to write efficient code. Mind Benders invite you to a hands-on workshop on Competitive Programming. 
 

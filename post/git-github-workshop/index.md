@@ -1,15 +1,13 @@
-+++
-author = "Kunal"
-title = "Git & Github Workshop"
-date = "2022-07-05"
-description = "Git & Github Workshop at TCET"
-categories = [
-    "Events"
-]
-tags = []
-image = "poster.jpeg"
-lastmod = '2022-07-09'
-+++
+---
+author: "Kunal"
+title: "Git & Github Workshop"
+date: "2022-07-05"
+description: "Git & Github Workshop at TCET"
+categories: ["Events"]
+tags: []
+image: "poster.jpeg"
+lastmod: '2022-07-09'
+---
 
 Learn how to start building, shipping, and maintaining software with Git & GitHub. Mind Benders is pleased to announce that the workshop will be conducted you Dhiraj Chauhan from TE COMPS, who is a GitHub Campus Expert Trainee. 
 
