@@ -54,9 +54,9 @@ The increasing complexity of code poses a key challenge to productivity in softw
 
 A common approach to code completion is to train transformer models, which use a self-attention mechanism for language understanding, to enable code understanding and completion predictions. We treat code similar to language, represented with sub-word tokens and a SentencePiece vocabulary, and use encoder-decoder transformer models running on TPUs to make completion predictions. The input is the code that is surrounding the cursor (~1000-2000 tokens) and the output is a set of suggestions to complete the current or multiple lines. Sequences are generated with a beam sea rch (or tree exploration) on the decoder.
 
-## DALL E 2 - OpenAI [^4]
+## DALL·E 2 - OpenAI [^4]
 
-The artificial intelligence research lab OpenAI revealed DALL-E 2, the successor to 2021’s DALL-E. Both AI systems can generate astounding images from natural-language text descriptions.
+The artificial intelligence research lab OpenAI revealed DALL·E 2, the successor to 2021’s DALL·E. Both AI systems can generate astounding images from natural-language text descriptions.
 
 DALL·E is a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs. We’ve found that it has a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images.
 
