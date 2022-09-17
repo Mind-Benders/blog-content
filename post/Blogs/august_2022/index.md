@@ -6,7 +6,7 @@ slug: tmai-august-2022
 description: Latest News & Breakthroughs in the Month of August 2022 in AI and ML
 categories: [Blog]
 tags: [Month in AI]
-image: 135.png
+image: 1Vangogh.jpg
 lastmod: "2022-09-17"
 aliases: [blog-august-2022]
 
