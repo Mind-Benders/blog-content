@@ -6,7 +6,7 @@ slug: tmai-august-2022
 description: Latest News & Breakthroughs in the Month of August 2022 in AI and ML
 categories: [Blog]
 tags: [Month in AI]
-image: Vangogh.jpg
+image: August_2022.jpg
 lastmod: "2022-09-17"
 aliases: [blog-august-2022]
 
@@ -43,15 +43,13 @@ This painting was thought to have been lost or destroyed until it was rediscover
 
 ## Digitizing Smell: Using Molecular Maps to Understand Odor [^4]
 
->Did you ever try to measure a smell? …Until you can measure their likenesses and differences you can have no science of odor. If you are ambitious to found a new science, measure a smell.
-><div align="right">— Alexander Graham Bell, 1914.</div>
-&nbsp;
+
 
 Smells are produced by molecules that waft through the air and enter our noses, and bind to sensory receptors. Potentially billions of molecules can produce a smell, so figuring out which ones produce which smells is difficult to catalog or predict. Sensory maps can help us solve this problem, and have existed for centuries, but not for smell.
 The model works by exploring thousands of examples of distinct molecules paired with the smell labels that they evoke, e.g., "beefy", "floral", or "minty".
 
 
-![ An example of a color map (CIE 1931) in which coordinates can be directly translated into values for hue and saturation. Similar colors lie near each other, and specific wavelengths of light (and combinations thereof) can be identified with positions on the map. Right: Odors in the Principal Odor Map operate similarly. Individual molecules correspond to points (grey), and the locations of these points reflect predictions of their odor character. ](POM.jpg "An example of a color map (CIE 1931) in which coordinates can be directly translated into values for hue and saturation. Similar colors lie near each other, and specific wavelengths of light (and combinations thereof) can be identified with positions on the map. Right: Odors in the Principal Odor Map operate similarly. Individual molecules correspond to points (grey), and the locations of these points reflect predictions of their odor character.")
+![ The Principal Odor Map is a map that maps molecules chemical character. Individual molecules locations are determined by their odour, and the locations of these points reflect predictions of their odor character. ](POM.jpg "The Principal Odor Map is a map that maps molecules chemical character. Individual molecules locations are determined by their odour, and the locations of these points reflect predictions of their odor character.")
 
 
 [^1]:  [https://scitechdaily.com/new-ai-powered-app-could-boost-smartphone-battery-life-by-30/](https://scitechdaily.com/new-ai-powered-app-could-boost-smartphone-battery-life-by-30/)
