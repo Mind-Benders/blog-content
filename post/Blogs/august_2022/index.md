@@ -1,9 +1,9 @@
 ---
 author: [Deexith, Kunal, Keval]
-title: This Month in AI and ML - August 2022
+title: This Month in AI - August 2022
 date: "2022-09-10"
 slug: tmai-august-2022
-description: Latest News & Breakthroughs in the Month of August 2022 in AI and ML
+description: Latest News & Breakthroughs in the Month of August 2022 in AI
 categories: [Blog]
 tags: [Month in AI]
 image: August_2022.jpg

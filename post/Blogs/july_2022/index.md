@@ -6,7 +6,7 @@ slug: tmai-july-2022
 description: Latest News & Breakthroughs in the Month of July 2022 in AI
 categories: [Blog]
 tags: [Month in AI]
-image: July_2022.jpg
+image: July_2022.png
 lastmod: "2022-08-31"
 aliases: [blog-july-2022]
 
