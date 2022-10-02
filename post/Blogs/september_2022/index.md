@@ -18,7 +18,7 @@ Using artificial intelligence, Physicists have compressed a daunting quantum pro
 
 Physicists are studying how electrons behave as they move on a gridlike lattice, an idealization of several important classes of materials. The model enables scientists to learn how electron behavior gives rise to sought-after phases of matter, such as superconductivity. It also serves as a testing ground for new methods before they're unleashed on more complex quantum systems.
 
-![The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.](Fig1_A.png "The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.")
+![The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.](physics_Eq.png "The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.")
 
 The renormalization group is a jumbo-size set of equations that must be solved. Di Sante and his colleagues used a machine learning tool to make the task more manageable. The program's output captured the Hubbard model's physics even with just four equations. It's like a cross between a switchboard operator and evolution.
 
@@ -27,16 +27,13 @@ They are investigating just what the machine learning is actually "learning" abo
 
 ## Listen to our major Text to Speech upgrades for 64 bit devices. [^2]
 
+We are excited to announce that we have upgraded all 421 voices in 67 languages with a new voice model and synthesizer. This upgrade is available for all 64 bit Android devices via the Google Play Store. This means you can now give your users the ability to choose a voice within your app. We've included some sample code to get you started, and it's fairly straightforward to set up.
+
 If you already use TTS and the Speech Services by Google engine, there is nothing to do – everything will happen behind the scenes as your users will have automatically downloaded the latest update. With this upgrade we will also be changing the default voice in en-US to one that is built using fresher speaker data, which alongside our new stack, results in a drastic improvement. If your users have not selected a system voice, and you rely on system defaults, they will hear a slightly different speaker. 
 
 ![All 421 voices in 67 languages have been upgraded with a new voice model and synthesizer. Voice Services by Google speech engine providing clearer, more natural voices.](Text-to-Speech.png "All 421 voices in 67 languages have been upgraded with a new voice model and synthesizer. Voice Services by Google speech engine providing clearer, more natural voices.")
 
 The Speech Services by Google apk is now available for all 64 bit Android devices via the Google Play Store. This means you can now give your users the ability to choose a voice within your app. We've included some sample code to get you started, and it's fairly straightforward to set up.
-
-
-
-
-
 
 ## Google Lens’ real-time translations will soon look a lot more seamless [^3]
 
@@ -86,6 +83,7 @@ PyTorch is moving to a new, independent PyTorch Foundation, under the Linux Foun
 
 PyTorch was created by a group of Meta AI researchers to fix the tedious, complicated pipeline of the AI field. PyTorch has since grown into the lingua franca of AI research. The framework will continue to be a part of Meta's AI research and engineering work.
 
+
 ![ PyTorch Foundation will focus on the business and product marketing of PyTorch and the related ecosystem](pytorch.jpg "PyTorch Foundation will focus on the business and product marketing of PyTorch and the related ecosystem")
 
 PyTorch was built with an open source, community-first philosophy, and that will not change. The PyTorch Foundation will strive to adhere to four principles: remaining open, maintaining neutral branding, staying fair, and forging a strong technical identity. Meta will continue to invest in the framework, and use it as the primary framework for our AI research and production.
@@ -100,13 +98,12 @@ The bill would give people and companies the right to sue for damages after bein
 
 The EU wants to be the global gold standard for AI regulation. Other countries, such as the US, are considering similar regulations. The Federal Trade Commission is considering rules around how companies handle data and build algorithms. It has forced companies that have collected data illegally to delete their algorithms.
 
+
 [^1]:  [https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations/](https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations/)
 [^2]:  [https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1](https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1)
-
 [^3]:  [https://www.xda-developers.com/google-lens-ar-translate/](https://www.xda-developers.com/google-lens-ar-translate/)
 [^4]:  [https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
 [^5]:  [https://machinelearning.apple.com/research/gaudi](https://machinelearning.apple.com/research/gaudi)
 [^6]:  [https://makeavideo.studio/](https://makeavideo.studio/)
 [^7]:  [https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html)
-
 [^8]:  [https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/)
