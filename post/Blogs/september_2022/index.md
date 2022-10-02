@@ -1,5 +1,5 @@
 ---
-author: [Deexith, Kunal, Keval]
+author: Deexith
 title: This Month in AI and ML - September 2022
 date: "2022-10-01"
 slug: tmai-september-2022
@@ -57,7 +57,54 @@ The bill would give people and companies the right to sue for damages after bein
 
 The EU wants to be the global gold standard for AI regulation. Other countries, such as the US, are considering similar regulations. The Federal Trade Commission is considering rules around how companies handle data and build algorithms. It has forced companies that have collected data illegally to delete their algorithms.
 
+## Google Lens’ real-time translations will soon look a lot more seamless [^5]
+
+Google Lens is getting a new feature that will make it easier to translate text in real time. The feature will be available in the next few weeks, and it will be available in 59 languages.
+
+Google Lens is a feature that uses your phone's camera to identify objects and text. It can translate text in real time, and it can also identify objects and landmarks. It's a useful tool for travelers, and it's also a great way to learn a new language.
+
+![Google Lens' real-time translations will soon look a lot more seamless.](Google-Lens.png "Google Lens' real-time translations will soon look a lot more seamless.")
+
+Google showed off a new feature for Lens, which uses machine learning and augmented reality to deliver a more seamless real-time translation experience. The new Lens AR Translate experience doesn't show any unsightly bars on the original image. It utilizes machine learning to erase the original text, recreate the pixels underneath with an AI-generated background, and then overlay the translated text.
+
+The company claims the experience will roll out later this year. Google uses the same technology that powers the Magic Eraser feature on Pixel devices to do this.
+
+## Lyra V2 - a better, faster, and more versatile speech codec [^6]
+
+ Lyra V2 releasing new version, with a new architecture that enjoys wider platform support. It provides scalable bitrate capabilities, has better performance, and generates higher quality audio. With this release, we hope to continue to evolve with the community, and see new applications being developed.
+
+Google has released a new version of its Lyra speech codec. The new version is faster, more efficient, and more versatile than the original. It's also open source, so anyone can use it.
+
+Lyra is a speech codec that Google developed to improve the quality of speech recognition. It's designed to be used in low-power devices, such as smart speakers and mobile phones. It's also designed to be used in noisy environments, such as a busy street.
+
+![Lyra V2 is a speech codec that Google developed to improve the quality of speech recognition.](Lyra-V2.png "Lyra V2 is a speech codec that Google developed to improve the quality of speech recognition.")
+
+Lyra V2 is based on an end-to-end neural audio codec called SoundStream. The code is tested on Android phones and Linux, with experimental Mac and Windows support. Lyra's model is exported in TensorFlow Lite, which supports various platforms and hardware accelerations.
+
+## GAUDI: A Neural Architect for Immersive 3D Scene Generation [^7]
+
+GAUDI is a neural architecture that can generate 3D scenes from a single image. It's designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image. It's also designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image.
+
+![GAUDI is a neural architecture that can generate 3D scenes from a single image.](gaudi.png "GAUDI is a neural architecture that can generate 3D scenes from a single image.")
+
+GAUDI is a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera. We show that GAUDI obtains state-of-the-art performance in the unconditional generative setting across multiple datasets.
+
+## Introducing Make-A-Video: An AI system that generates videos from text [^8]
+
+Make-A-Video is a new AI system that can generate videos from text. It's designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image. It's also designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image.
+
+Make-A-Video is a  system that lets people turn text prompts into high-quality video clips. System learns what the world looks like from paired text-image data. It can also create videos from images or take existing videos and create new ones that are similar.
+
+![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](makeavideo.webp "Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.")
+
+Make-A-Video follows our announcement earlier this year of Make-A-Scene, a multimodal generative AI method that gives people more control over the AI generated content they create. With Make-A-Scene, we demonstrated how people can create photorealistic illustrations and storybook-quality art using words, lines of text, and freeform sketches.
+
+
 [^1]:  [https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations/](https://www.simonsfoundation.org/2022/09/26/artificial-intelligence-reduces-a-100000-equation-quantum-physics-problem-to-only-four-equations/)
 [^2]:  [https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1](https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1)
 [^3]:  [https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html)
 [^4]:  [https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/)
+[^5]:  [https://www.xda-developers.com/google-lens-ar-translate/](https://www.xda-developers.com/google-lens-ar-translate/)
+[^6]:  [https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
+[^7]:  [https://machinelearning.apple.com/research/gaudi](https://machinelearning.apple.com/research/gaudi)
+[^8]:  [https://makeavideo.studio/](https://makeavideo.studio/)
