@@ -1,5 +1,5 @@
 ---
-author: [Deexith, Kunal, Keval]
+author: Deexith
 title: This Month in AI and ML - September 2022
 date: "2022-10-01"
 slug: tmai-september-2022
