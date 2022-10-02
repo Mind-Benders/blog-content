@@ -104,7 +104,10 @@ Make-A-Video follows our announcement earlier this year of Make-A-Scene, a multi
 [^2]:  [https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1](https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html?m=1)
 [^3]:  [https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html)
 [^4]:  [https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/)
+<<<<<<< HEAD
 [^5]:  [https://www.xda-developers.com/google-lens-ar-translate/](https://www.xda-developers.com/google-lens-ar-translate/)
 [^6]:  [https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
 [^7]:  [https://machinelearning.apple.com/research/gaudi](https://machinelearning.apple.com/research/gaudi)
 [^8]:  [https://makeavideo.studio/](https://makeavideo.studio/)
+=======
+>>>>>>> 84e09d4ac94b2483f3080b711844a60fbf13a3c8
