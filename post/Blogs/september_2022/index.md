@@ -18,7 +18,7 @@ Using artificial intelligence, Physicists have compressed a daunting quantum pro
 
 Physicists are studying how electrons behave as they move on a gridlike lattice, an idealization of several important classes of materials. The model enables scientists to learn how electron behavior gives rise to sought-after phases of matter, such as superconductivity. It also serves as a testing ground for new methods before they're unleashed on more complex quantum systems.
 
-![The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.](Fig1_A.avif "The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.")
+![The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.](Fig1_A.png "The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.")
 
 The renormalization group is a jumbo-size set of equations that must be solved. Di Sante and his colleagues used a machine learning tool to make the task more manageable. The program's output captured the Hubbard model's physics even with just four equations. It's like a cross between a switchboard operator and evolution.
 
@@ -53,7 +53,7 @@ The EU is creating new rules to make it easier to sue AI companies for harm. A b
 
 The bill would give people and companies the right to sue for damages after being harmed by an AI system. It will add teeth to the EU's AI Act, which is set to become law around the same time.
 
-![Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.](EU.webp "Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.")
+![Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.](EU.png "Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.")
 
 The EU wants to be the global gold standard for AI regulation. Other countries, such as the US, are considering similar regulations. The Federal Trade Commission is considering rules around how companies handle data and build algorithms. It has forced companies that have collected data illegally to delete their algorithms.
 
