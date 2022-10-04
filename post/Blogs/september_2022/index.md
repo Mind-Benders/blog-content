@@ -6,7 +6,7 @@ slug: tmai-september-2022
 description: Latest News & Breakthroughs in the Month of September 2022 in AI and ML
 categories: [Blog]
 tags: [Month in AI]
-image: poster.jpg
+image: Poster.jpg
 lastmod: "2022-10-01"
 aliases: [blog-september-2022]
 
