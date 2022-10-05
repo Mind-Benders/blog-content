@@ -1,12 +1,12 @@
 ---
 author: Deexith
-title: This Month in AI and ML - September 2022
+title: This Month in AI - September 2022
 date: "2022-10-01"
 slug: tmai-september-2022
-description: Latest News & Breakthroughs in the Month of September 2022 in AI and ML
+description: Latest News & Breakthroughs in the Month of September 2022 in AI.
 categories: [Blog]
 tags: [Month in AI]
-image: Poster.jpg
+image: poster.jpg
 lastmod: "2022-10-01"
 aliases: [blog-september-2022]
 
@@ -73,7 +73,7 @@ Make-A-Video is a new AI system that can generate videos from text. It's designe
 
 Make-A-Video is a  system that lets people turn text prompts into high-quality video clips. System learns what the world looks like from paired text-image data. It can also create videos from images or take existing videos and create new ones that are similar.
 
-![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://i.postimg.cc/YSY6VdN1/makeavideo.webp "Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.")
+![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/Blogs/september_2022/makeavideo.webp "Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.")
 
 Make-A-Video follows our announcement earlier this year of Make-A-Scene, a multimodal generative AI method that gives people more control over the AI generated content they create. With Make-A-Scene, we demonstrated how people can create photorealistic illustrations and storybook-quality art using words, lines of text, and freeform sketches.
 
