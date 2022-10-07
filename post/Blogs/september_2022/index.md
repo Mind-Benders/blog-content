@@ -1,9 +1,9 @@
 ---
-author: Deexith
+author: [Deexith, Kunal]
 title: This Month in AI - September 2022
 date: "2022-10-01"
 slug: tmai-september-2022
-description: Latest News & Breakthroughs in the Month of September 2022 in AI.
+description: Wi News & Breakthroughs in the Month of September 2022 in AI.
 categories: [Blog]
 tags: [Month in AI]
 image: poster.jpg
@@ -12,87 +12,77 @@ aliases: [blog-september-2022]
 
 ---
 
-## Artificial Intelligence Reduces a 100,000-Equation Quantum Physics Problem to Only Four Equations [^1]
+## AI Reduces a 100,000-Equation Quantum Physics Problem to 4 Equations [^1]
 
-Using artificial intelligence, Physicists have compressed a daunting quantum problem that until now required 100,000 equations into just four equations. The breakthrough could help scientists better understand the behavior of electrons in materials, which could lead to new technologies. The work is published in the journal Physical Review Letters.
+Physicists have compressed a daunting quantum problem that required 100,000 equations into just four. Breakthrough could help scientists better understand the behavior of electrons in materials. Machine learning tool could also be used in other fields, such as cosmology and neuroscience.
 
-Physicists are studying how electrons behave as they move on a gridlike lattice, an idealization of several important classes of materials. The model enables scientists to learn how electron behavior gives rise to sought-after phases of matter, such as superconductivity. It also serves as a testing ground for new methods before they're unleashed on more complex quantum systems.
+Physicists have compressed a daunting quantum problem that required 100,000 equations into just four using AI.  The renormalization group is a jumbo-size set of equations that must be solved. Di Sante and his colleagues used a machine learning program which captured the Hubbard model's physics with just four equations. 
 
 ![The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.](physics_Eq.png "The Flatiron Institute's researchers used machine learning to crunch down the problem to just four equations, each representing a single interaction between electrons.")
 
-The renormalization group is a jumbo-size set of equations that must be solved. Di Sante and his colleagues used a machine learning tool to make the task more manageable. The program's output captured the Hubbard model's physics even with just four equations. It's like a cross between a switchboard operator and evolution.
+This breakthrough could help scientists better understand the behavior of electrons in materials, which could lead to new technologies.  There are also exciting possibilities for using the technique in other fields that deal with renormalization groups, such as cosmology and neuroscience.
 
-They are investigating just what the machine learning is actually "learning" about the system. There are exciting possibilities for using the technique in other fields that deal with renormalization groups, such as cosmology and neuroscience.
+## Google Lens & Text To Speech gets major upgrades [^2] [^3]
 
+Google has annonced that they have updated all 421 voices in 67 languages with a new voice model and synthesizer. This update is available for all 64bit Android Devices by updating/installing the Speech Services by Google app. 
 
-## Listen to our major Text to Speech upgrades for 64 bit devices. [^2]
+The model is built using fresher speaker data, which alongside new stack, results in a drastic improvement in speech synthesis. 
 
-We are excited to announce that we have upgraded all 421 voices in 67 languages with a new voice model and synthesizer. This upgrade is available for all 64 bit Android devices via the Google Play Store. This means you can now give your users the ability to choose a voice within your app. We've included some sample code to get you started, and it's fairly straightforward to set up.
+![All 421 voices in 67 languages have been upgraded with a new voice model and synthesizer. Voice Services by Google speech engine providing clearer, more natural voices.](Text-to-Speech.png "Voice Services by Google speech engine providing clearer, more natural voices.")
 
-If you already use TTS and the Speech Services by Google engine, there is nothing to do – everything will happen behind the scenes as your users will have automatically downloaded the latest update. With this upgrade we will also be changing the default voice in en-US to one that is built using fresher speaker data, which alongside our new stack, results in a drastic improvement. If your users have not selected a system voice, and you rely on system defaults, they will hear a slightly different speaker. 
-
-![All 421 voices in 67 languages have been upgraded with a new voice model and synthesizer. Voice Services by Google speech engine providing clearer, more natural voices.](Text-to-Speech.png "All 421 voices in 67 languages have been upgraded with a new voice model and synthesizer. Voice Services by Google speech engine providing clearer, more natural voices.")
-
-The Speech Services by Google apk is now available for all 64 bit Android devices via the Google Play Store. This means you can now give your users the ability to choose a voice within your app. We've included some sample code to get you started, and it's fairly straightforward to set up.
-
-## Google Lens’ real-time translations will soon look a lot more seamless [^3]
-
-Google Lens is getting a new feature that will make it easier to translate text in real time. The feature will be available in the next few weeks, and it will be available in 59 languages.
-
-Google Lens is a feature that uses your phone's camera to identify objects and text. It can translate text in real time, and it can also identify objects and landmarks. It's a useful tool for travelers, and it's also a great way to learn a new language.
-
-![Google Lens' real-time translations will soon look a lot more seamless.](Google-Lens.png "Google Lens' real-time translations will soon look a lot more seamless.")
-
-Google showed off a new feature for Lens, which uses machine learning and augmented reality to deliver a more seamless real-time translation experience. The new Lens AR Translate experience doesn't show any unsightly bars on the original image. It utilizes machine learning to erase the original text, recreate the pixels underneath with an AI-generated background, and then overlay the translated text.
+Google showed off a new feature for Google Lens, which uses ML and augmented reality (ar) to deliver a more seamless real-time translation experience. The new Lens AR Translate experience doesn't show any bars on the original image. It utilizes machine learning to erase the original text, recreate the pixels underneath with an AI-generated background, and then overlay the translated text. The feature will be available in 59 languages.
 
 The company claims the experience will roll out later this year. Google uses the same technology that powers the Magic Eraser feature on Pixel devices to do this.
 
+![Google Lens' real-time translations will soon look a lot more seamless.](Google-Lens.png "Google Lens' real-time translations will soon look a lot more seamless.")
+
 ## Lyra V2 - a better, faster, and more versatile speech codec [^4]
 
- Lyra V2 releasing new version, with a new architecture that enjoys wider platform support. It provides scalable bitrate capabilities, has better performance, and generates higher quality audio. With this release, we hope to continue to evolve with the community, and see new applications being developed.
+Lyra is a open-source speech codec that Google developed to improve the quality of speech recognition. 
 
-Google has released a new version of its Lyra speech codec. The new version is faster, more efficient, and more versatile than the original. It's also open source, so anyone can use it.
+Lyra V2 is faster, efficient, versatile and is designed to be used in low-power devices, such as smart speakers and mobile phones. It is based on E2E neural audio codec called SoundStream. It offers scalable bitrate capabilities, better performance, and generates higher quality audio.
 
-Lyra is a speech codec that Google developed to improve the quality of speech recognition. It's designed to be used in low-power devices, such as smart speakers and mobile phones. It's also designed to be used in noisy environments, such as a busy street.
+![Lyra V2 is a speech codec that Google developed to improve the quality of speech recognition.](Lyra-V2.png "Model of Lyra V2 Codec")
 
-![Lyra V2 is a speech codec that Google developed to improve the quality of speech recognition.](Lyra-V2.png "Lyra V2 is a speech codec that Google developed to improve the quality of speech recognition.")
-
-Lyra V2 is based on an end-to-end neural audio codec called SoundStream. The code is tested on Android phones and Linux, with experimental Mac and Windows support. Lyra's model is exported in TensorFlow Lite, which supports various platforms and hardware accelerations.
 
 ## GAUDI: A Neural Architect for Immersive 3D Scene Generation [^5]
 
-GAUDI is a neural architecture that can generate 3D scenes from a single image. It's designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image. It's also designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image.
+GAUDI is a neural architecture that can generate realistic 3D scenes from a single image designed to be used in VR. It's generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera.
 
-![GAUDI is a neural architecture that can generate 3D scenes from a single image.](gaudi.png "GAUDI is a neural architecture that can generate 3D scenes from a single image.")
+![GAUDI is a neural architecture that can generate 3D scenes from a single image.](gaudi.png "Example 3D Scenes generated by GAUDI")
 
-GAUDI is a generative model capable of capturing the distribution of complex and realistic 3D scenes that can be rendered immersively from a moving camera. We show that GAUDI obtains state-of-the-art performance in the unconditional generative setting across multiple datasets.
+GAUDI obtains state-of-the-art performance in the unconditional generative setting across multiple datasets.
 
-## Introducing Make-A-Video: An AI system that generates videos from text [^6]
+## Meta's Make-A-Video: An AI system that generates videos from text [^6]
 
-Make-A-Video is a new AI system that can generate videos from text. It's designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image. It's also designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image.
+Make-A-Video is a new AI system that can generate videos from text prompts. It's designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image. It's also designed to be used in virtual reality, and it can generate realistic 3D scenes from a single image.
 
-Make-A-Video is a  system that lets people turn text prompts into high-quality video clips. System learns what the world looks like from paired text-image data. It can also create videos from images or take existing videos and create new ones that are similar.
+The system learns what the world looks like from paired text-image data. It can also create videos from images or take existing videos and create new ones that are similar.
 
-![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/Blogs/september_2022/makeavideo.webp "Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.")
+![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/Blogs/september_2022/makeavideo.webp "Video generated from text 'Robot dancing in times square' using Make-A-Video")
 
-Make-A-Video follows our announcement earlier this year of Make-A-Scene, a multimodal generative AI method that gives people more control over the AI generated content they create. With Make-A-Scene, we demonstrated how people can create photorealistic illustrations and storybook-quality art using words, lines of text, and freeform sketches.
+Make-A-Video follows Meta's announcement earlier of [Make-A-Scene]({{< ref "/post/Blogs/july_2022/index.md#the-meta-ai--greater-creative-control-for-ai-image-generation-1" >}} "Make-A-Scene")
 
-## Announcing the PyTorch Foundation: A new era for the cutting-edge AI framework [^7]
+## NVIDIA DLSS 3: Higher FPS using AI [^7]
 
-PyTorch is moving to a new, independent PyTorch Foundation, under the Linux Foundation umbrella. The foundation's mission is to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source projects. It will democratize state-of-the-art tools, libraries, and other components to make these innovations accessible to everyone.
+NVIDIA DLSS revolutionized graphics by using AI super resolution and Tensor Cores on GeForce RTX GPUs to boost frame rates while delivering crisp, high quality images that rival native resolution. 
 
-PyTorch was created by a group of Meta AI researchers to fix the tedious, complicated pipeline of the AI field. PyTorch has since grown into the lingua franca of AI research. The framework will continue to be a part of Meta's AI research and engineering work.
+DLSS 3 is a revolutionary breakthrough in AI-powered graphics that massively boosts performance, while maintaining great image quality and responsiveness. Building upon DLSS Super Resolution, DLSS 3 adds Optical Multi Frame Generation to generate entirely new frames, and integrates NVIDIA Reflex low latency technology for optimal responsiveness. It can lead upto 4x performace over brute-force rendering.
 
+![Working of NVIDIA's DLSS 3](nvidia-dlss-3-working.jpg "Working of NVIDIA's DLSS 3 which improves FPS by using lower resolution input frames to output higher resolution frames")
+
+
+## PyTorch Foundation: A new era for the cutting-edge AI framework [^8]
+
+PyTorch is moving to a new, independent PyTorch Foundation, under the Linux Foundation umbrella. PyTorch was built with an open source, community-first philosophy, and that will not change. The foundation's mission is to drive adoption of AI tooling by fostering and sustaining an ecosystem of open source projects. It will democratize state-of-the-art tools, libraries, and other components to make these innovations accessible to everyone.
+
+PyTorch was created by a group of Meta AI researchers to fix the tedious, complicated pipeline of the AI field. Meta will continue to invest in the framework, and use it as the primary framework for our AI research and production. The framework will continue to be a part of Meta's AI research and engineering work.
 
 ![ PyTorch Foundation will focus on the business and product marketing of PyTorch and the related ecosystem](pytorch.jpg "PyTorch Foundation will focus on the business and product marketing of PyTorch and the related ecosystem")
 
-PyTorch was built with an open source, community-first philosophy, and that will not change. The PyTorch Foundation will strive to adhere to four principles: remaining open, maintaining neutral branding, staying fair, and forging a strong technical identity. Meta will continue to invest in the framework, and use it as the primary framework for our AI research and production.
+## The EU wants to put companies on the hook for harmful AI [^9]
 
-## The EU wants to put companies on the hook for harmful AI [^8]
-
-The EU is creating new rules to make it easier to sue AI companies for harm. A bill unveiled this week is likely to become law in a couple of years. Tech companies complain it could have a chilling effect on innovation, but activists say it doesn't go far enough.
-
-The bill would give people and companies the right to sue for damages after being harmed by an AI system. It will add teeth to the EU's AI Act, which is set to become law around the same time.
+The EU is creating new rules to make it easier to sue AI companies for harm. A bill unveiled this week is likely to become law in a couple of years. The bill would give people and companies the right to sue for damages after being harmed by an AI system. It will add teeth to the EU's AI Act, which is set to become law around the same time.
 
 ![Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.](EU.png "Whether or not it succeeds, this new EU legislation will have a ripple effect on how AI is regulated around the world.")
 
@@ -104,6 +94,7 @@ The EU wants to be the global gold standard for AI regulation. Other countries, 
 [^3]:  [https://www.xda-developers.com/google-lens-ar-translate/](https://www.xda-developers.com/google-lens-ar-translate/)
 [^4]:  [https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html](https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html)
 [^5]:  [https://machinelearning.apple.com/research/gaudi](https://machinelearning.apple.com/research/gaudi)
-[^6]:  [https://makeavideo.studio/](https://makeavideo.studio/)
-[^7]:  [https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html)
-[^8]:  [https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/)
+[^6]:  [https://ai.facebook.com/blog/generative-ai-text-to-video/](https://ai.facebook.com/blog/generative-ai-text-to-video/)
+[^7]:  [https://www.nvidia.com/en-us/geforce/news/dlss3-ai-powered-neural-graphics-innovations/](https://www.nvidia.com/en-us/geforce/news/dlss3-ai-powered-neural-graphics-innovations/)
+[^8]:  [https://ai.facebook.com/blog/pytorch-foundation/](https://ai.facebook.com/blog/pytorch-foundation/)
+[^9]:  [https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/](https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/) 
