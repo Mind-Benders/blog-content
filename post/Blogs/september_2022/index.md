@@ -3,7 +3,7 @@ author: [Deexith, Kunal]
 title: This Month in AI - September 2022
 date: "2022-10-01"
 slug: tmai-september-2022
-description: Wi News & Breakthroughs in the Month of September 2022 in AI.
+description: Latest News & Breakthroughs in the Month of September 2022 in AI.
 categories: [Blog]
 tags: [Month in AI]
 image: poster.jpg
