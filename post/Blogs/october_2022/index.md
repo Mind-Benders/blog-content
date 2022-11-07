@@ -22,7 +22,7 @@ A group of experimenters from the University of Washington described a new tool 
 
 ProteinMPNN will help experimenters with the inverse problem. The system uses a neural network trained on exemplifications of amino acid sequences, which fold into three- dimensional structures.
 
-![](1.webp)
+![](1.jpg)
 
 Machine literacy will make the whole process a lot hastily and lightly, and will allow experimenters to produce fully new proteins and structures on a much larger scale. The software is further than 200 times faster than the former stylish tool and requires minimum stoner input, potentially lowering the walls to entry for protein design.
 
