@@ -7,7 +7,7 @@ description: Latest News & Breakthroughs in the Month of October 2022 in AI.
 categories: [Blog]
 tags: [Month in AI]
 image: Poster.jpg
-lastmod: "2022-11-07"
+lastmod: "2022-11-11"
 aliases: [blog-october-2022]
 
 ---
