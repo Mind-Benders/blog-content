@@ -25,7 +25,7 @@ ProteinMPNN will help experimenters with the inverse problem. Machine literacy w
 
 Google researchers have presented a novel language pre-training paradigm called Unified Language Learner that improves the performance of language models universally across datasets and setups. Building models that understand and generate natural language well is one of the grand goals of machine learning research. Improving the quality of our language models is a key target for researchers to make progress toward such a goal.
 
-![An overview of the denoising objectives used in UL2’s mixture-of-denoisers.](2.gif "An overview of the denoising objectives used in UL2’s mixture-of-denoisers.")
+![An overview of the denoising objectives used in UL2’s mixture-of-denoisers.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/Blogs/october_2022/2.gif "An overview of the denoising objectives used in UL2’s mixture-of-denoisers.")
 
 ## AI can detect drunkenness by evaluating infrared images of human faces with 93% accuracy [^3]
 
