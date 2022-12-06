@@ -60,9 +60,9 @@ A new technique enables artificial intelligence agents to think much farther int
 Creating artificial intelligence agents that can learn to compete and cooperate as effectively as humans remains a thorny problem. Because of the complexity of this problem, current approaches tend to be myopic; the agents can only guess the next few moves of their teammates or competitors, which leads to poor performance in the long run.
 Their machine-learning framework enables cooperative or competitive AI agents to consider what other agents will do as time approaches infinity, not just over a few next steps.
 
-[1]: [https://ai.googleblog.com/2022/11/better-language-models-without-massive.html](https://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
-[2]: [https://news.mit.edu/2022/synthetic-data-ai-improvements-1103](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)
-[3]: [https://www.aboutamazon.com/news/aws/aws-launches-new-ai-program-for-community-colleges-msis-hbcus](https://www.aboutamazon.com/news/aws/aws-launches-new-ai-program-for-community-colleges-msis-hbcus)
-[4]: [https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/](https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/)
-[5]: [https://www.weforum.org/agenda/2022/11/how-ai-can-help-climate-migration/](https://www.weforum.org/agenda/2022/11/how-ai-can-help-climate-migration/)
-[6]: [https://www.sciencedaily.com/releases/2022/11/221123114212.htm](https://www.sciencedaily.com/releases/2022/11/221123114212.htm)
+[^1]: [https://ai.googleblog.com/2022/11/better-language-models-without-massive.html](https://ai.googleblog.com/2022/11/better-language-models-without-massive.html)
+[^2]: [https://news.mit.edu/2022/synthetic-data-ai-improvements-1103](https://news.mit.edu/2022/synthetic-data-ai-improvements-1103)
+[^3]: [https://www.aboutamazon.com/news/aws/aws-launches-new-ai-program-for-community-colleges-msis-hbcus](https://www.aboutamazon.com/news/aws/aws-launches-new-ai-program-for-community-colleges-msis-hbcus)
+[^4]: [https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/](https://venturebeat.com/ai/ai-will-thrive-in-3-areas-despite-economic-conditions-experts-say/)
+[^5]: [https://www.weforum.org/agenda/2022/11/how-ai-can-help-climate-migration/](https://www.weforum.org/agenda/2022/11/how-ai-can-help-climate-migration/)
+[^6]: [https://www.sciencedaily.com/releases/2022/11/221123114212.htm](https://www.sciencedaily.com/releases/2022/11/221123114212.htm)
