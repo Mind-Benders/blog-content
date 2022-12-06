@@ -1,5 +1,5 @@
 ---
-author: [Ananta, Deexith, keval, Kunal]
+author: [Ananta, Deexith, Keval, Kunal]
 title: This Month in AI - November 2022
 date: "2022-12-05"
 slug: tmai-november-2022
@@ -14,10 +14,10 @@ aliases: [blog-november-2022]
 
 ## Best Language Models that have become prominent in NLP [^1]
 
-Recent studies revealed that Language Models(LMs)  have become more prominent and increasingly important in natural language processing research and impactful practice. The performance of NLP tasks has been improved by scaling up language models. Scaling up LMs required a great number of computational resources.
+Recent studies revealed that Language Models(LMs) have become more prominent and increasingly important in NLP research and impactful practice. The performance of NLP tasks has been improved by scaling up language models. Scaling up LMs required a great number of computational resources.
 
 The researchers have explored two complementary approaches for improving existing language models which are "Transcending Scaling Laws with 0.1% Extra Compute" and "Scaling Instruction-Fine Tuned Language Models".
-In the First method, they introduced UL2R which improves performance across a range of NLP tasks.in “Scaling Instruction-Finetuned Language Models”, they explore fine-tuning a language model on a collection of datasets phrased as instructions, a process they call “Flan”.
+In the First method, they introduced UL2R which improves performance across a range of NLP tasks in “Scaling Instruction-Finetuned Language Models”, they explore fine-tuning a language model on a collection of datasets phrased as instructions, a process they call “Flan”.
 
 ![Compute versus model performance of PaLM 540B and U-PaLM 540B on 26 NLP benchmarks (listed in Table 8 in the paper). U-PaLM 540B continues training PaLM for a very small amount of compute but provides a substantial gain in performance.](LMs.png "Compute versus model performance of PaLM 540B and U-PaLM 540B on 26 NLP benchmarks (listed in Table 8 in the paper). U-PaLM 540B continues training PaLM for a very small amount of compute but provides a substantial gain in performance.")
 
@@ -27,7 +27,7 @@ Google researchers show that Flan and UL2R can be combined as a model called Fla
 
 Researchers train machine learning models using vast datasets of video clips that show humans performing actions. Using these videos might also violate copyright or data protection laws.
 
-So, Researchers come up with a solution instead of using realistic datasets they are turning to use synthetic datasets. These are made by a computer that uses 3D models of scenes, objects, and humans to quickly produce many varying clips of specific actions and this type of data does not violate copyright.
+So, researchers have come up with a solution instead of using realistic datasets they are turning to use synthetic datasets. These are made by a computer that uses 3D models of scenes, objects, and humans to quickly produce many varying clips of specific actions and this type of data does not violate copyright.
 
 To test whether the synthetic data works as good as real data researchers used 150,000 synthetic datasets that captured a wide range of human actions to train machine-learning models. The researchers found that the synthetically trained models performed even better than models trained on real data for videos that have fewer background objects.
 
