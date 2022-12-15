@@ -1,11 +1,11 @@
 ---
 author: Kunal
 title: Kaggle Expert Webinar
-date: "2022-09-08"
+date: "2022-10-08"
 description: Webinar to learn about becoming a Kaggle Expert 
 categories: [Events]
 image: kaggle_poster.png
-lastmod: "2022-09-08"
+lastmod: "2022-10-08"
 ---
 
 
