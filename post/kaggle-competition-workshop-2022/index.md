@@ -4,7 +4,7 @@ title: Kaggle Competitions Workshop
 date: "2022-12-15"
 description: Workshop to learn about Kaggle Competitions 
 categories: [Events]
-image: kaggle_poster.jpg
+image: kaggle_poster.png
 lastmod: "2022-12-15"
 ---
 
