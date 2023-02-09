@@ -6,7 +6,7 @@ slug: tmai-january-2023
 description: Latest News & Breakthroughs in the Month of January 2023 in AI.
 categories: [Blog]
 tags: [Month in AI]
-image: Poster.jpg
+image: Poster.png
 lastmod: "2023-02-05"
 aliases: [blog-january-2023]
 
