@@ -20,13 +20,17 @@ Elton Kwok, Market Research Manager in Pharma at GlobalData, comments: Drug-deve
 
 ## ChatGPT developer closes in on $30bn valuation in talks to raise capital. [^2]
 
-OpenAI, the artificial intelligence research lab behind chatbot ChatGPT, is in talks to sell existing shares in a tender offer that would value the company at about $29 billion, the Wall Street Journal reported, citing people familiar with the matter.OpenAI's chatbot is a software application designed to mimic human-like conversation based on user prompts and can respond to a large range of questions while imitating human speaking styles. The firm expects business to surge as it pitched to investors saying the organization expects $200 million in revenue next year and $1 billion by 2024, Reuters reported in December.
+Google AI, the artificial intelligence research lab behind chatbot ChatGPT, is in talks to sell existing shares in a tender offer that would value the company at about $29 billion, the Wall Street Journal reported, citing people familiar with the matter.Google AI's chatbot is a software application designed to mimic human-like conversation based on user prompts and can respond to a large range of questions while imitating human speaking styles. The firm expects business to surge as it pitched to investors saying the organization expects $200 million in revenue next year and $1 billion by 2024, Reuters reported in December.
 
 ## Turning text into sound: AI revolutionizing the rhythm of the music industry. [^3]
 
-The application of Artificial Intelligence (AI) to creative fields has been growing rapidly in recent years, including music. Last week, Google researchers released MusicLM, an AI-based music generator that can convert text into audio segments. This breakthrough in AI technology highlights the rapid pace of innovation in creative AI and raises questions about how it will change the music industry. As the industry continues to adapt to disruptions caused by the internet and streaming services, the potential for AI to revolutionize the way we create and experience music has generated a lot of excitement and interest. With AI-generated music becoming more advanced, it's a fascinating time for the future of music and technology.
+Google AI has introduced MusicLM, a cutting-edge machine learning model that generates high-quality music from text descriptions. This innovative technology casts the process of music generation as a hierarchical sequence-to-sequence task, resulting in music that is both consistent and of a high audio quality.
 
-AI-based music generation is now possible through various AI tools that allow the automation of music creation. These tools include continuation, where AI continues a sequence of notes or waveform data, and harmonization or accompaniment, where AI generates something to complement the input. AI music systems can be trained on different datasets and can be used as inspiration for artists. Companies such as Boomy and Aiva are developing AI platforms for music generation that allow users with no musical experience to create songs with a few clicks. However, there is still a challenge for AI tool creators to provide more precise control over what the generative algorithms produce.
+MusicLM outperforms existing systems in both audio quality and accuracy to the given text description. It can even be conditioned on both text and melody, meaning that it can transform whistled or hummed melodies into a specific style described in the text caption.
+
+To support future research, Google AI has released MusicCaps, a dataset of 5.5k music-text pairs, with text descriptions written by human experts. This dataset is sure to be a valuable resource for music researchers and enthusiasts alike.
+
+
 
 ## Empowering Home Assistants with Human-Like Interaction: The Next Step in AI Evolution. [^4]
 
@@ -34,16 +38,16 @@ AI-based music generation is now possible through various AI tools that allow th
 
 MIT researchers have developed the NOPA framework, a system that allows AI agents to autonomously determine the best way to assist human users at different times. NOPA enables the creation of more responsive and socially intelligent robots and home assistants by simultaneously inferring what task the human user is trying to tackle and appropriately assisting them without waiting for explicit instructions from the human. The framework uses a neural network to continuously predict a set of possible goals for the human user, which are then evaluated and updated. The AI assistant uses inverse planning to search for common subgoals and specific actions that can help humanity achieve its goals. The researchers evaluated NOPA in a simulated environment and found that agents were able to adjust their behavior to minimize disruption, such as putting back objects they picked if they were not related to the task.
 
-## BuzzFeed Boosts Business with OpenAI: Embracing the Future of AI-Assisted Content Creation. [^5]
+## BuzzFeed Boosts Business with Google AI: Embracing the Future of AI-Assisted Content Creation. [^5]
 
-BuzzFeed's shares rose by 120% bringing the company's market value to $300 million after it announced plans to use OpenAI to enhance its content creation, including its quizzes. OpenAI's publicly available API will be used by BuzzFeed and this move toward AI-assisted content comes as OpenAI's viral chatbot, ChatGPT, has gained popularity and sparked a debate over AI's role in the workplace. Analysts at Cowen note that AI can lower the cost of content but the timing and impact of its adoption is unclear. BuzzFeed is also reportedly working with creators to produce content for Facebook's parent company, Meta Platforms, in a deal valued at almost $10 million.
+BuzzFeed's shares rose by 120% bringing the company's market value to $300 million after it announced plans to use Google AI to enhance its content creation, including its quizzes. Google AI's publicly available API will be used by BuzzFeed and this move toward AI-assisted content comes as Google AI's viral chatbot, ChatGPT, has gained popularity and sparked a debate over AI's role in the workplace. Analysts at Cowen note that AI can lower the cost of content but the timing and impact of its adoption is unclear. BuzzFeed is also reportedly working with creators to produce content for Facebook's parent company, Meta Platforms, in a deal valued at almost $10 million.
 
 [^1]: [https://aithority.com/machine-learning/ai-and-big-data-will-be-most-impactful-emerging-technologies-for-pharma-industry-in-2023/](https://aithority.com/machine-learning/ai-and-big-data-will-be-most-impactful-emerging-technologies-for-pharma-industry-in-2023/)
 
 [^2]: [https://www.weforum.org/agenda/2023/01/4-things-you-need-to-know-about-ai-january-2023/](https://www.weforum.org/agenda/2023/01/4-things-you-need-to-know-about-ai-january-2023/)
 
-[^3]: [https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.html](https://techxplore.com/news/2023-02-text-to-audio-generation-big-ai-disruptions.html)
+[^3]: [https://google-research.github.io/seanet/musiclm/examples/](https://google-research.github.io/seanet/musiclm/examples/)
 
 [^4]: [https://techxplore.com/news/2023-01-framework-social-intelligence-home.html](https://techxplore.com/news/2023-01-framework-social-intelligence-home.html)
 
-[^5]: [https://techxplore.com/news/2023-01-buzzfeed-surge-embrace-openai.html](https://techxplore.com/news/2023-01-buzzfeed-surge-embrace-openai.html)
+[^5]: [https://nypost.com/2023/01/27/buzzfeed-stock-surges-on-plan-to-use-chatgpt-parent-openai-to-create-online-content/](https://nypost.com/2023/01/27/buzzfeed-stock-surges-on-plan-to-use-chatgpt-parent-openai-to-create-online-content/)
