@@ -1,5 +1,5 @@
 ---
-author: [Ananta, Deexith, keval, Kunal]
+author: [Ananta, Deexith, Keval, Kunal]
 title: This Month in AI - February 2023
 date: "2023-03-05"
 slug: tmai-february-2023
@@ -15,8 +15,9 @@ aliases: [blog-february-2023]
 ## Beyond Directions: The Exciting Evolution of Maps towards Immersive and Sustainable Solutions. [^1]
 
 Google Maps has launched a new feature called "Immersive view" that lets users explore a place virtually and get a feel of what it's like before visiting. It uses AI and computer vision to create a rich, digital model of the world and provides helpful information like weather, traffic, and how busy a place is. The feature is rolling out in major cities and will soon launch in more cities.
-
-![Navigate airports, train stations, and shopping centers with indoor Live View](maps.gif)
+<p align="center">
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/arwn_indoor_framed_02.gif" alt="Navigate airports, train stations, and shopping centers with indoor Live View" />
+</p>
 
 This new update is part of Google Maps' vision for an immersive and sustainable navigation experience that reimagines how people explore and navigate while helping them make more informed choices. With this feature, users can plan their visits with more accurate and detailed information and explore nearby restaurants to get a sense of their vibe before booking a reservation.
 
@@ -28,7 +29,7 @@ Artificial intelligence (AI) technology has been used to identify genes critical
 
 Google CEO Sundar Pichai highlights the importance of AI in unlocking human potential and improving lives. He introduces Bard, an experimental conversational AI service powered by Google's Language Model for Dialogue Applications (LaMDA), which draws information from the web to provide high-quality responses. Pichai also discusses Google's latest AI advancements, including PaLM, Imagen, and MusicLM, and their potential to create new ways of engaging with information. Google plans to introduce AI-powered features in Search that will distill complex information and multiple perspectives into easy-to-digest formats. Additionally, Google will onboard developers to try their Generative Language API and provide a suite of tools and APIs to build more innovative AI applications. Pichai emphasizes Google's commitment to developing AI responsibly and making it safe and useful for everyone.
 
-![When looking for insights, AI features in Search can distill information to help you see the big picture.](Bard.gif)
+![When looking for insights, AI features in Search can distill information to help you see the big picture.](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_features_feb6.gif)
 
 ## The Making of ChatGPT: An Inside Look from the Team behind the AI-Language Model. [^4]
 
