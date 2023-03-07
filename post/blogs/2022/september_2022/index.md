@@ -59,9 +59,9 @@ Make-A-Video is a new AI system that can generate videos from text prompts. It's
 
 The system learns what the world looks like from paired text-image data. It can also create videos from images or take existing videos and create new ones that are similar.
 
-![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/Blogs/september_2022/makeavideo.webp "Video generated from text 'Robot dancing in times square' using Make-A-Video")
+![Make-A-Video is a new AI system that can generate videos from text 'Robot dancing in times square'.](https://raw.githubusercontent.com/Mind-Benders/blog-content/main/post/blogs/2022/september_2022/makeavideo.webp "Video generated from text 'Robot dancing in times square' using Make-A-Video")
 
-Make-A-Video follows Meta's announcement earlier of [Make-A-Scene]({{< ref "/post/Blogs/july_2022/index.md#the-meta-ai--greater-creative-control-for-ai-image-generation-1" >}} "Make-A-Scene")
+Make-A-Video follows Meta's announcement earlier of [Make-A-Scene]({{< ref "/post/blogs/2022/july_2022/index.md#the-meta-ai--greater-creative-control-for-ai-image-generation-1" >}} "Make-A-Scene")
 
 ## NVIDIA DLSS 3: Higher FPS using AI [^7]
 
