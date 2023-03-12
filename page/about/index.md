@@ -1,11 +1,12 @@
 ---
 title: About
 # description: Mind Benders aims to equip students with leading technologies in more hands-on approach.
-date: '2022-10-30'
 aliases:
   - about-us
   - about-mindbenders
   - contact
+toc: false
+readingTime: false
 menu:
     main: 
         weight: -90
@@ -36,3 +37,6 @@ Overall, this club is the perfect place for anyone who is passionate about data 
 |    11   | Ananta Pandey |Jt. Publication Head|
 |    12   | Sakshi Maurya |Jt. Marketing Head  |
 
+## Contact Us
+
+Email: tcet.mindbenders@gmail.com
