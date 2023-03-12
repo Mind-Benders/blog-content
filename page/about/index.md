@@ -13,9 +13,11 @@ menu:
             icon: user
 ---
 
-Mind Benders Club is new club at Thakur College Of Engineering & Technology (TCET). It was founded by Batch 1 Students (20-24) of AI&DS. The club activities are overseen by the department of Artificial Intelligence & Data Science (AI&DS).
+The Mind Benders Club is a student's club at Thakur College of Engineering & Technology (TCET) founded in 2022. The club is for individuals who are passionate about data science, machine learning, and other cutting-edge technologies. The club is dedicated to providing a platform for like-minded individuals to come together, share knowledge, and collaborate on projects.
 
-The Club was formed due to need of activities in-line with the requirements of the department and provide students with more hands-on approach for learning new tools & technology in more fun & interactive way. 
+The club offers a variety of events and activities for members to participate in, including workshops, seminars, lectures, and hackathons. These events provide an opportunity for members to gain hands-on experience, learn from experts in the field, and share ideas with their peers. The club also has an online community where members can share resources, discuss industry trends, and connect with other like-minded individuals.
+
+Overall, this club is the perfect place for anyone who is passionate about data science and machine learning. With a dedicated community of enthusiasts, members will have access to a wealth of knowledge and resources to help them achieve their goals.
 
 ## Core 22-23
 
