@@ -40,13 +40,7 @@ We've technically already seen the release of GPT-4 more than 5 weeks ago. OpenA
 Chat plugins are computer programmes that enhance the usefulness of chat programmes by adding new features and functionalities. Some possible concepts for fresh chat plugins include translation, calendar reminders, polling, task management, screen sharing, voice and video calling, social media integration, personalization, and a knowledge base. Integrating additional tools and apps with the chat application is also made possible through the integration plugin. These plugins can help users collaborate more effectively and smoothly across various platforms.
 
 
-## Meta AI Introduces SAM, an AI Model That Can Instantly Cut Out Any Object from Images. [^6]
-
-Meta AI has introduced a new AI model called SAM, which can remove any object from an image with just one click. The Segment Anything Model (SAM) is capable of accurately segmenting images regardless of their complexity, making it a valuable tool for professionals who need to manipulate images quickly and efficiently. SAM has the potential to revolutionize the way images are edited, making it easier and faster to remove objects from images.
-
-![SAM: A New AI Model That Can Instantly Cut Out Any Object from Images.](segment.mp4)
-
-## Vid2Seq: A Powerful Visual Language Model for Generating Video Descriptions. [^7]
+## Vid2Seq: A Powerful Visual Language Model for Generating Video Descriptions. [^6]
 
 Videos are an integral part of our daily lives and understanding their content has become increasingly important. Dense video captioning is a task that involves temporally localizing and describing all events in a minutes-long video. Current dense video captioning systems have several limitations such as being trained exclusively on manually annotated datasets and containing specialized task-specific components. However, a new architecture called "Vid2Seq" has been introduced which pre-trains a unified model by leveraging unlabeled narrated videos. This model improves the state of the art on a variety of dense video captioning benchmarks and also generalizes well to other related tasks. The code for Vid2Seq has also been made available for others to use.
 
@@ -64,6 +58,4 @@ Videos are an integral part of our daily lives and understanding their content h
 
 [^5]: [https://platform.openai.com/docs/plugins/introduction](https://platform.openai.com/docs/plugins/introduction)
 
-[^6]: [https://segment-anything.com/](https://segment-anything.com/)
-
-[^7]: [https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
+[^6]: [https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html](https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html)
