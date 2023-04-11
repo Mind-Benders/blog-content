@@ -1,5 +1,5 @@
 ---
-author: [Ananta, Deexith, keval, Kunal]
+author: [Ananta, Deexith, Keval, Kunal]
 title: This Month in AI - March 2023
 date: "2023-04-09"
 slug: tmai-march-2023
