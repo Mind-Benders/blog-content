@@ -5,7 +5,7 @@ date: "2023-04-10"
 description: Workshop to learn about EDA and Automated Techniques 
 categories: [Events]
 image: eda_workshop.png
-lastmod: "2023-03-28"
+lastmod: "2023-04-12"
 ---
 
 We are pleased to announce that we are conducting a workshop on Unlock the Power of Data: EDA and Automated Techniques. This workshop will help students to get familiar with EDA and automated techniques involved in EDA.
