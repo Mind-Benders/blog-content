@@ -47,15 +47,15 @@ Artificial intelligence researchers have celebrated a string of successes with n
 Liquid neural networks offer an elegant and compact alternative , said Ken Goldberg, a roboticist at the University of California, Berkeley.
 
 
-[^1]: [https://www.moneycontrol.com/news/technology/microsofts-bing-ai-now-in-public-preview-open-to-everyone-10534881.html](https://www.moneycontrol.com/news/technology/microsofts-bing-ai-now-in-public-preview-open-to-everyone-10534881.html)
+[^1]: [https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
-[^2]: [https://www.indiatoday.in/technology/news/story/linkedin-using-ai-to-help-users-draft-the-perfect-job-application-here-is-all-you-need-to-know-2368483-2023-05-04](https://www.indiatoday.in/technology/news/story/linkedin-using-ai-to-help-users-draft-the-perfect-job-application-here-is-all-you-need-to-know-2368483-2023-05-04)
+[^2]: [https://www.linkedin.com/pulse/how-ai-can-help-you-land-your-dream-job-step-by-step-hemachandran/](https://www.linkedin.com/pulse/how-ai-can-help-you-land-your-dream-job-step-by-step-hemachandran/)
 
-[^3]: [https://analyticsindiamag.com/yolo-nas-sets-a-new-standard-for-object-detection/](https://analyticsindiamag.com/yolo-nas-sets-a-new-standard-for-object-detection/)
+[^3]: [https://deci.ai/blog/yolo-nas-object-detection-foundation-model/](https://deci.ai/blog/yolo-nas-object-detection-foundation-model/)
 
 [^4]: [https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/amp/](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/amp/)
 
-[^5]: [https://economictimes.indiatimes.com/tech/technology/ai-pioneer-geoffrey-hinton-says-its-threat-to-world-may-be-more-urgent-than-climate-change/articleshow/100024961.cms](https://economictimes.indiatimes.com/tech/technology/ai-pioneer-geoffrey-hinton-says-its-threat-to-world-may-be-more-urgent-than-climate-change/articleshow/100024961.cms)
+[^5]: [https://theconversation.com/ai-pioneer-geoffrey-hinton-says-ai-is-a-new-form-of-intelligence-unlike-our-own-have-we-been-getting-it-wrong-this-whole-time-204911](https://theconversation.com/ai-pioneer-geoffrey-hinton-says-ai-is-a-new-form-of-intelligence-unlike-our-own-have-we-been-getting-it-wrong-this-whole-time-204911)
 
 [^6]: [https://www.technologyreview.com/2022/10/25/1062104/machine-learning-new-metals?ref=refind](https://www.technologyreview.com/2022/10/25/1062104/machine-learning-new-metals?ref=refind)
 
