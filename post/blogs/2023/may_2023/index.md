@@ -71,6 +71,6 @@ Despite their efforts, Chegg's future remains uncertain, and the company's execu
 
 [^5]: [https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/](https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/)
 
-[^6]: [https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADcx3z0Lkzz-s49MhtVnXua2VHo9L9DfbFdjyvtAjxcQ4Q-le8PWgZU8tfqrB2ofP0dgu8ltfoMzPWQvn5MrIq6qy_maNkzu0zgs-872jbUAyWlBMCgD6pO0thu1C4geHDupSqLCwHy_miltFchmSAKraUAdaLUbaXJTCBHrRrAe](https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADcx3z0Lkzz-s49MhtVnXua2VHo9L9DfbFdjyvtAjxcQ4Q-le8PWgZU8tfqrB2ofP0dgu8ltfoMzPWQvn5MrIq6qy_maNkzu0zgs-872jbUAyWlBMCgD6pO0thu1C4geHDupSqLCwHy_miltFchmSAKraUAdaLUbaXJTCBHrRrAe)
+[^6]: [https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/](https://techcrunch.com/2023/05/23/spotify-may-use-ai-to-make-host-read-podcast-ads-that-sound-like-real-people/)
 
 [^7]: [https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/](https://www.wired.com/story/chegg-embraced-ai-chatgpt-ate-its-lunch-anyway/)
