@@ -33,7 +33,7 @@ The traditional methods of antibiotic discovery have proven challenging and time
 
 ## Unleash Your Creativity: Photoshop's AI Transforms Your Images with a Single Text Prompt. [^4]
 
-![](./photoshop.png)
+![](photoshop.png)
 
 Adobe has introduced a groundbreaking AI tool called Generative Fill in its Photoshop application, leveraging generative AI to add or remove objects from photos based on a simple text prompt. Acting as an "AI co-pilot," Adobe Firefly powers this feature, aiming to revolutionize the photo editing process. While enhancing user creativity, Adobe acknowledges the need to address concerns about potential misuse of the technology. The addition of Generative Fill is expected to usher in a new era of AI-driven creativity in the creative industries, providing extraordinary results and streamlining previously time-consuming tasks. Currently available in the beta version, a wider release of this transformative AI tool in Photoshop is on the horizon.
 
