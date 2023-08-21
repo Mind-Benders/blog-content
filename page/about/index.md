@@ -27,7 +27,7 @@ Overall, this club is the perfect place for anyone who is passionate about data 
 |    1    | Kunal Agrawal | President          |
 |    2    | Aman Tiwari   | Vice President     |
 |    3    | Ganesh Utla   | Secretary          |
-|    4    | Deexith Madas | Treasurer          |
+|    4    | Deexith Madas | Open-Source Head   |
 |    5    | Vaibhav Ashta | Technical Head     |
 |    6    | Keval Waghate | Publication Head   |
 |    7    | Abhir Iyer    | Social Media Head  |
