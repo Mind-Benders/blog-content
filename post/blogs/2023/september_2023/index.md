@@ -1,10 +1,10 @@
 ---
 author: [Arya, Saurabha, Vrushali]
 title: This Month in AI - September 2023
-lastmod: "2023-06-30"
+lastmod: "2023-09-28"
+date: "2023-09-23"
 slug: tmai-September-2023
 description: Latest News & Breakthroughs in the Month of September 2023 in AI.
-date: "2023-09-08"
 categories: [Blog]
 tags: [Month in AI]
 image: Poster.png
