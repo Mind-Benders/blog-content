@@ -12,7 +12,7 @@ aliases: [blog-september-2023]
 
 ---
 
-## Code Llama by Meta[^1]
+## Code Llama by Meta..[^1]
 Meta, the tech giant formerly known as Facebook, has entered the AI arena with Code Llama. This cutting-edge large language model (LLM) is tailored for coding tasks, capable of generating both code and natural language explanations related to code. With three models available in varying sizes, Code Llama is poised to meet the diverse needs of developers and programmers, making coding more efficient and accessible.
 
 
