@@ -76,16 +76,16 @@ In conclusion, the world of AI continues to push boundaries and deliver game-cha
 
 
 
-[^1]: [https://huggingface.co/spaces/hf-audio/open_asr_leaderboard]   
+[^1]: https://huggingface.co/spaces/hf-audio/open_asr_leaderboard
 
-[^2]: [https://www.stableaudio.com/]
+[^2]: https://www.stableaudio.com/
 
-[^3]: [https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/]
+[^3]: https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/
 
-[^4]: [https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/?guccounter=1]
+[^4]: https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/
 
-[^5]: [https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023]
+[^5]: https://www.theverge.com/2023/9/8/23863943/roblox-ai-chatbot-assistant-ai-rdc-2023
 
-[^6]: [https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/]
+[^6]: https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/
  
-[^7]: [https://blog.google/products/bard/google-bard-new-features-update-sept-2023/]
+[^7]: https://blog.google/products/bard/google-bard-new-features-update-sept-2023/
