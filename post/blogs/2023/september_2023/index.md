@@ -89,3 +89,6 @@ In conclusion, the world of AI continues to push boundaries and deliver game-cha
 [^6]: [Microsoft Copilot] (https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/)
  
 [^7]: [Bard Extension] (https://blog.google/products/bard/google-bard-new-features-update-sept-2023/)
+=======
+[^7]: [Bing's Market Share Stagnation](https://www.zdnet.com/article/bings-search-market-share-fails-to-budge-despite-ai-push/)
+
