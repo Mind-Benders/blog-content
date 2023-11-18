@@ -30,7 +30,7 @@ But that's not all. ChatGPT now possesses the ability to see, hear, and speak. W
 
 Microsoft is making waves in the AI hardware arena with the introduction of its own AI chip called Athena. This chip is set to reduce the company's reliance on NVIDIA GPUs and compete head-to-head with NVIDIA's H100 GPU for AI acceleration in data centers. This move showcases Microsoft's commitment to achieving self-sufficiency in AI hardware and driving innovation in the AI space.
 
-![Microsoft AI Athena](ai_athena.png)
+![Microsoft AI Athena](ai_athena.jpg)
 
 ## 3. Sturgeon: AI in Real-Time Brain Tumor Diagnosis
 
@@ -51,13 +51,14 @@ In a related move, OpenAI is contemplating the development of its own AI chips f
 
 Stability AI introduces Stable LM 3B, a high-performing language model designed specifically for smart devices. Boasting 3 billion parameters, this model outperforms state-of-the-art 3B models while significantly reducing operating costs and power consumption. The result is an AI model that enables a broader range of applications on smart devices, PCs, and edge computing, paving the way for enhanced user experiences and improved efficiency.
 
-![Stable LM 3B Logo](stable_ai.png)
+![Stable LM 3B Logo](stable_ai.jpg)
 
 
 ## 6. Fuyu-8B: A Multimodal Marvel
 
 Adept has unveiled Fuyu-8B, an impressive open-source vision-language model engineered to comprehend and respond to questions about images, charts, diagrams, and documents. This multimodal AI architecture promises to unlock new horizons in AI-driven image and document analysis, offering a plethora of applications in fields such as healthcare, education, and more.
 
+![Adept Logo](adept.jpg)
 
 In conclusion, October 2023 has been a momentous month for AI enthusiasts. With advancements in AI hardware, language models, multimodal AI, and real-time medical diagnosis, the landscape of artificial intelligence is evolving at an incredible pace. These developments not only reflect the cutting-edge capabilities of AI but also point to the potential for AI to transform industries and improve the quality of our lives. The future of AI is undoubtedly exciting, and it promises to bring more innovations and discoveries in the months and years to come.
 
