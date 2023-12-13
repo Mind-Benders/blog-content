@@ -81,11 +81,17 @@ November emerges as a pivotal month, marking significant strides in AI research,
 
 
 [^1]: [Red Pajama](https://together.ai/blog/redpajama-data-v2)
+
 [^2]: [Explore Grok](https://mashable.com/article/elon-musk-x-ai-update)
+
 [^3]: [Alphafold ](https://deepmind.google/discover/blog/a-glimpse-of-the-next-generation-of-alphafold/)
 [^4]: [Read about Google's investment](https://techcrunch.com/2023/10/27/ais-proxy-war-heats-up-as-google-reportedly-backs-anthropic-with-2b/)
+
 [^5]: [Explore Copilot](https://github.blog/2023-11-08-universe-2023-copilot-transforms-github-into-the-ai-powered-developer-platform/)
+
 [^6]: [Discover the enhancements in Nvidia](https://rapids.ai/cudf-pandas/)
+
 [^7]: [Read about Neuralink](https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11)
+
 [^8]: [Explore Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
 
