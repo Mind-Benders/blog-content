@@ -7,7 +7,7 @@ slug: tmai-November-2023
 description: Latest News & Breakthroughs in the Month of November 2023 in AI.
 categories: [Blog]
 tags: [Month in AI]
-image: Poster.png
+image: Poster.jpg
 aliases: [blog-November-2023]
 
 ---
