@@ -1,18 +1,34 @@
 ---
-author: [Arya, Saurabha, Vrushali]
-title: This Month in AI - December 2023
-lastmod: "2023-11-15"
-date: "2024-01-26"
 slug: tmai-December-2023
+title: This Month in AI - December 2023
+authors:
+  - name: Sharukhali Syed
+    title: President - Mind Benders
+    url: https://github.com/ai-apex-dev
+    image_url: https://github.com/ai-apex-dev.png 
+  - name: Arya Mane
+    title: Publication Head - Mind Benders
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
+  - name: Saurabha Sawant
+    title: Opensource - Mind Benders
+    url: https://github.com/Saurabha999
+    image_url: https://github.com/Saurabha999.png
+  - name: Vrushali Sandam
+    title: Technical Head - Mind Benders
+    url: https://github.com/VrushaliSandam
+    image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of December 2023 in AI.
-categories: [Blog]
 tags: [Month in AI]
-image: Poster.png
-aliases: [blog-December-2023]
-
 ---
 
+![Poster](Poster.png)
+
+## This Month in AI - December 2023
+
 As we bid farewell to another month, the AI landscape has witnessed a whirlwind of developments, from breakthroughs in AI capabilities to the announcement of significant partnerships and regulatory milestones. Here's a roundup of the most noteworthy news in the AI world for the past month.
+
+<!--truncate-->
 
 ##  Divergence Attack Raises Privacy Concerns for ChatGPT: [^1]
 A recent study sheds light on an unexpected vulnerability in language models, including ChatGPT. Researchers have identified a "divergence attack" that allows models to recall and regurgitate specific training data, potentially exposing sensitive information like email addresses and phone numbers. Privacy concerns loom as the AI community grapples with the implications of this discovery.
