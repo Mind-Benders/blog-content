@@ -1,22 +1,36 @@
 ---
-author: [Arya, Saurabha, Vrushali]
-title: This Month in AI - October 2023
-lastmod: "2023-11-15"
-date: "2023-11-15"
 slug: tmai-October-2023
+title: This Month in AI - October 2023
+authors:
+  - name: Sharukhali Syed
+    title: President - Mind Benders
+    url: https://github.com/ai-apex-dev
+    image_url: https://github.com/ai-apex-dev.png 
+  - name: Arya Mane
+    title: Publication Head - Mind Benders
+    url: https://github.com/AryaMane1210
+    image_url: https://github.com/AryaMane1210.png
+  - name: Saurabha Sawant
+    title: Opensource - Mind Benders
+    url: https://github.com/Saurabha999
+    image_url: https://github.com/Saurabha999.png
+  - name: Vrushali Sandam
+    title: Technical Head - Mind Benders
+    url: https://github.com/VrushaliSandam
+    image_url: https://github.com/VrushaliSandam.png
 description: Latest News & Breakthroughs in the Month of October 2023 in AI.
-categories: [Blog]
 tags: [Month in AI]
-image: Poster.png
-aliases: [blog-october-2023]
 
 ---
 
+![Poster](Poster.png)
 
-
-# Exciting AI Developments: October 2023 
+## Exciting AI Developments: October 2023
 
 Artificial intelligence continues to make leaps and bounds, shaping the future in extraordinary ways. October 2023 has been an especially remarkable month for AI, with groundbreaking advancements and innovative solutions emerging from various organizations. In this blog, we'll delve into some of the most noteworthy developments in the world of AI.
+
+<!--truncate-->
+
 
 ## 	ChatGPT: The Multifaceted AI Assistant
 
@@ -24,7 +38,7 @@ OpenAI's ChatGPT has undergone some transformative upgrades, making it a more ca
 
 But that's not all. ChatGPT now possesses the ability to see, hear, and speak. With new voice and image capabilities, users can engage in natural voice conversations and receive relevant responses. Additionally, the image feature enables users to present images to ChatGPT for assistance in interpretation. These additions open up exciting possibilities for interactive and dynamic AI interactions.
 
-![ChatGPT](gpt.png)
+![ChatGPT](chatgpt.png)
 
 ##  Microsoft's Athena: A Game-Changing AI Chip
 
