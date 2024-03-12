@@ -1,32 +1,18 @@
 ---
-slug: tmai-February-2024
+author: [Arya, Saurabha, Vrushali]
 title: This Month in AI - February 2024
-authors:
-  - name: Sharukhali Syed
-    title: President - Mind Benders
-    url: https://github.com/ai-apex-dev
-    image_url: https://github.com/ai-apex-dev.png 
-  - name: Arya Mane
-    title: Publication Head - Mind Benders
-    url: https://github.com/AryaMane1210
-    image_url: https://github.com/AryaMane1210.png
-  - name: Saurabha Sawant
-    title: Opensource - Mind Benders
-    url: https://github.com/Saurabha999
-    image_url: https://github.com/Saurabha999.png
-  - name: Vrushali Sandam
-    title: Technical Head - Mind Benders
-    url: https://github.com/VrushaliSandam
-    image_url: https://github.com/VrushaliSandam.png
+lastmod: "2024-03-12"
+date: "2024-03-12"
+slug: tmai-February-2024
 description: Latest News & Breakthroughs in the Month of February 2024 in AI.
+categories: [Blog]
 tags: [Month in AI]
+image: Poster.png
+aliases: [blog-February-2024]
+
 ---
 
-![Poster](Poster.png)
-
 Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta's Code Llama to Google's Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let
-
-<!--truncate-->
 
 
 ## Code Llama Unleashed by Meta [^1] : 
