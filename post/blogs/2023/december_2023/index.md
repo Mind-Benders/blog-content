@@ -1,8 +1,8 @@
 ---
 author: [Arya, Saurabha, Vrushali]
 title: This Month in AI - December 2023
-lastmod: "2023-11-15"
-date: "2024-01-26"
+lastmod: "2024-01-10"
+date: "2023-12-29"
 slug: tmai-December-2023
 description: Latest News & Breakthroughs in the Month of December 2023 in AI.
 categories: [Blog]
