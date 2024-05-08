@@ -12,8 +12,7 @@ aliases: [blog-February-2024]
 
 ---
 
-Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta's Code Llama to Google's Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. Let
-
+Unveiling the latest technological marvels, February 2024 stands witness to groundbreaking advancements in artificial intelligence (AI). From Meta's Code Llama to Google's Gemini Pro, the month showcases a flurry of innovations propelling the AI landscape into uncharted territories. 
 
 ## Code Llama Unleashed by Meta [^1] : 
    Meta's recent introduction of Code Llama 70B marks a significant leap in large language models for coding, offering three variants: the base model, a Python-specific version, and an 'Instruct' version for interpreting natural language commands. What sets it apart is its comparability to GPT-4, making strides in accessibility by providing all editions free for both research and commercial applications.

@@ -12,7 +12,7 @@ aliases: [blog-March-2024]
 
 ---
 
-## Cognition Launches Devin, the AI Software Engineer [^1]:
+## Cognition Launches Devin, the AI Software Engineer [^1] :
  Cognition introduces Devin, an AI-designed autonomous software engineer aimed at augmenting coding teams. Devin demonstrates proficiency in learning and debugging, autonomously resolving real-world GitHub issues. This innovation showcases the potential of AI in streamlining software development processes and addressing complex coding challenges. Cognition's Devin represents a leap forward in AI-assisted software engineering, promising increased efficiency and productivity for development teams. 
 
 
@@ -24,7 +24,7 @@ aliases: [blog-March-2024]
 
 ![Neural link](neural_link.png)
 
-## Stability AI Introduces Stable Video 3D [^3]:
+## Stability AI Introduces Stable Video 3D [^3] :
  Stability AI unveils Stable Video 3D (SV3D), a novel generative model enhancing 3D technology with improved quality and consistency. SV3D offers two versions catering to different user needs, with commercial access requiring a Stability AI Membership. This innovation represents a significant advancement in 3D content creation, offering new possibilities for industries such as entertainment, gaming, and virtual reality.
 
  ![stability ai](stability_ai.jpg)
@@ -34,7 +34,7 @@ aliases: [blog-March-2024]
 
 ![nvidea](nvidea.png)
 
-## Elon Musk Sues OpenAI [^5]: 
+## Elon Musk Sues OpenAI [^5] : 
 
 Elon Musk files a lawsuit against OpenAI, alleging a departure from its initial mission of promoting AGI for public benefit due to a profit-centered partnership with Microsoft. The lawsuit reflects growing concerns about the direction of AI development and the implications of corporate alliances on its ethical governance. Musk's legal action underscores the importance of transparency and accountability in AI research and deployment.
 
@@ -47,13 +47,13 @@ Elon Musk files a lawsuit against OpenAI, alleging a departure from its initial 
 ![Apple](apple.jpg)
 
 
-## Google's Search Algorithm Update [^7]:
+## Google's Search Algorithm Update [^7]
  Google announces an update to its Search algorithm aimed at combating spammy and low-quality content while promoting trustworthy websites. The algorithm revision emphasizes elevating user experience by prioritizing high-quality and relevant content, aligning with Google's mission to provide reliable information to users worldwide. This update reflects Google's ongoing efforts to enhance search quality and combat misinformation on the internet.
 
 ![google](google.jpg)
 
 
-## European Parliament Passes AI Regulation Act [^8]:
+## European Parliament Passes AI Regulation Act [^8]
  The European Parliament approves the world's first major AI regulation act, mandating risk-based regulation of artificial intelligence with stringent consumer protections and human oversight. Set for implementation in 2025, this legislation is poised to influence global tech firms and set a precedent for international AI regulations. The EU's proactive approach to AI governance underscores the importance of ethical considerations and societal impacts in shaping AI development and deployment. 
 
 ![law](law.jpg)
