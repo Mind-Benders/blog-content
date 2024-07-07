@@ -1,5 +1,5 @@
 ---
-author: [Arya, Saurabha, Vrushali]
+author: [Arya, Saurabha, Vrushali, Shivansu]
 title: This Month in AI - April 2024
 lastmod: "2024-05-07"
 date: "2024-05-07"
