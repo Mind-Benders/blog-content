@@ -1,30 +1,17 @@
 ---
-slug: tmai-March-2024
-title: This Month in AI - March 2024
-authors:
-  - name: Sharukhali Syed
-    title: President - Mind Benders
-    url: https://github.com/ai-apex-dev
-    image_url: https://github.com/ai-apex-dev.png 
-  - name: Arya Mane
-    title: Publication Head - Mind Benders
-    url: https://github.com/AryaMane1210
-    image_url: https://github.com/AryaMane1210.png
-  - name: Saurabha Sawant
-    title: Opensource - Mind Benders
-    url: https://github.com/Saurabha999
-    image_url: https://github.com/Saurabha999.png
-  - name: Vrushali Sandam
-    title: Technical Head - Mind Benders
-    url: https://github.com/VrushaliSandam
-    image_url: https://github.com/VrushaliSandam.png
-description: Latest News & Breakthroughs in the Month of February 2024 in AI.
+author: [Arya, Saurabha, Vrushali, Shivansu]
+title: This Month in AI - June 2024
+lastmod: "2024-07-07"
+date: "2024-07-07"
+slug: tmai-June-2024
+description: Latest News & Breakthroughs in the Month of June 2024 in AI.
+categories: [Blog]
 tags: [Month in AI]
-keywords: [Tech Innovations, AI Developments, Mistral AI Codestral, China Semiconductor Fund, Nvidia Market Value, Apple Intelligence, Stability AI, Microsoft AI Expansion, Lumalabs Dream Machine, Anthropic Claude 3, AI-Driven Coding, Tech Self-Sufficiency, AI Market Leaders, AI Chatbot Capabilities, Sound Generation AI, Video Synthesis AI, Ethical AI Interaction, AI Industry Trends, June 2024 Tech News, Cutting-Edge Technology]
+image: Poster.png
+aliases: [blog-June-2024]
 
 ---
 
-![Poster](Poster.png)
 
 ## Tech Innovations and Investments: Key Developments in June 2024
 
