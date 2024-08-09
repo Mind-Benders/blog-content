@@ -1,16 +1,17 @@
 ---
-author: [Kriva,Shubham,Deepti,Pawan,Sanidhya,Shravani,Aisha]
-title: AI Innovations: July 2024 Highlights
+author: [Shubham,Kriva,Deepti,Sanidhya,Shravani,Pawan,Aisha]
+title: This Month in AI - July 2024
 lastmod: "2024-08-09"
 date: "2024-08-09"
-slug: ai-july-2024-highlights
+slug: tmai-July-2024
 description: Key advancements and challenges in AI during July 2024.
 categories: [Blog]
-tags: [AI, Technology, July 2024]
+tags: [Month in AI]
 image: poster.png
-aliases: [ai-news-july-2024]
+aliases: [blog-July-2024]
 
 ---
+
 
 July 2024 was marked by remarkable advancements in AI technology, from Google's powerful new AI model to breakthroughs in semiconductor technology. While these developments promise to reshape industries, they also raise important ethical and regulatory questions. This month's highlights explore these trends in depth.
 
@@ -59,11 +60,19 @@ Whistleblowers have urged the SEC to investigate OpenAI over potentially illegal
 ## Conclusion
 July 2024 has seen groundbreaking AI developments and significant ethical challenges. From Google's Gemma 2 2B to the EU's new AI law, these advancements will shape the future of AI. However, balancing innovation with ethical standards remains essential as AI continues to evolve.
 
-[^1]: [Source Link 1](https://indianexpress.com/article/technology/artificial-intelligence/googles-new-small-ai-model-gemma-2-2b-surpasses-openais-gpt-3-5-9489169/)
-[^2]: [Source Link 2](https://www.artificialintelligence-news.com/news/mistral-large-2-david-to-big-tech-goliaths/)
-[^3]: [Source Link 3](https://techxplore.com/news/2024-08-gen-semiconductor-technology-high-efficiency.html)
-[^4]: [Source Link 4](https://techxplore.com/news/2024-08-world-eu-ai-law.html)
-[^5]: [Source Link 5](https://techxplore.com/news/2024-07-mad-generative-ai-internet.html)
-[^6]: [Source Link 6](https://techxplore.com/news/2024-07-key-quicker-nuclear-power-artificial.html)
-[^7]: [Source Link 7](https://techxplore.com/news/2024-07-scientists-ai-wildfire.html)
-[^8]: [Source Link 8](https://techxplore.com/news/2024-07-openai-whistleblowers-sec-company-disclosure.html)
+## References
+[^1]: [Google’s New AI Model - Gemma 2 2B](https://indianexpress.com/article/technology/artificial-intelligence/googles-new-small-ai-model-gemma-2-2b-surpasses-openais-gpt-3-5-9489169/)
+
+[^2]: [Mistral’s AI Model - Mistral Large 2 ](https://www.artificialintelligence-news.com/news/mistral-large-2-david-to-big-tech-goliaths/)
+
+[^3]: [Next Generation Semiconductor Technologies ](https://techxplore.com/news/2024-08-gen-semiconductor-technology-high-efficiency.html)
+
+[^4]: [The EU's Landmark AI Law](https://techxplore.com/news/2024-08-world-eu-ai-law.html)
+
+[^5]: [Challenges with Generative AI and the Internet](https://techxplore.com/news/2024-07-mad-generative-ai-internet.html)
+
+[^6]: [AI-Driven Advancements in Nuclear Power](https://techxplore.com/news/2024-07-key-quicker-nuclear-power-artificial.html)
+
+[^7]: [Predicting Wildfires with AI ](https://techxplore.com/news/2024-07-scientists-ai-wildfire.html)
+
+[^8]: [OpenAI Whistleblowers and SEC Complaints ](https://techxplore.com/news/2024-07-openai-whistleblowers-sec-company-disclosure.html)
