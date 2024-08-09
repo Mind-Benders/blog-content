@@ -18,12 +18,12 @@ aliases: [blog-June-2024]
 ### Mistral AI Unveils Codestral: A Cutting-Edge Coding Model[^1]
 Mistral AI has introduced Codestral, a generative AI model designed specifically for coding. Codestral is proficient in over 80 programming languages and features an impressive 32k context window, enhancing its performance in various benchmarks. This development signifies a substantial advancement in the realm of AI-driven coding assistance.
 
-![Mistral AI](mistral_ai.jpg)
+![Mistral AI](mistral_ai.png)
 
 ### China Launches $47 Billion Semiconductor Fund to Boost Tech Self-Sufficiency [^2]
 China has allocated $47.48 billion to its largest-ever chip fund, aiming to bolster domestic semiconductor production. This investment is a crucial move toward achieving technological self-sufficiency and enhancing competitiveness in sectors like AI. The fund represents a significant step in China's strategic tech ambitions.
 
-![China Semiconductor Fund](China_ai.jpg)
+![China Semiconductor Fund](China_ai.png)
 
 ### Nvidia Surpasses Apple in Market Value, Reaching $3.01 Trillion[^3]
 Nvidia's market capitalization has soared to $3.01 trillion, surpassing Apple and making it the world's second most valuable company. This leap is driven by the surge in artificial intelligence technology, highlighting Nvidia's pivotal role in the AI industry.
@@ -38,7 +38,7 @@ Apple is set to reveal "Apple Intelligence," a new AI solution featuring chatbot
 ### Stability AI Launches Stable Audio Open for Sound Generation[^5]
 Stability AI has released "Stable Audio Open," an AI model that generates sound from text descriptions using royalty-free samples. This tool is intended for non-commercial use and opens new possibilities for creative audio projects.
 
-![Stability AI](stability_ai.jpg)
+![Stability AI](stability_ai.png)
 
 ### Microsoft Expands AI Dominance Under Nadella's Leadership[^6]
 Under CEO Satya Nadella, Microsoft is aggressively expanding its AI capabilities by acquiring AI assets globally and developing proprietary technologies. This strategy includes investing in AI startups and recruiting top industry experts, positioning Microsoft as a formidable player in the AI landscape, potentially rivaling OpenAI.
@@ -48,7 +48,7 @@ Under CEO Satya Nadella, Microsoft is aggressively expanding its AI capabilities
 ### Lumalabs Introduces Luma Dream Machine for Video Synthesis[^7]
 Lumalabs has launched the Luma Dream Machine, an AI model designed to create high-quality, realistic videos from text and images. Utilizing a transformer-based method optimized for video content, this tool represents a significant advancement in AI-driven video synthesis.
 
-![Lumalabs](dream_machine.jpg)
+![Lumalabs](dream_machine.png)
 
 ### Enhancing AI Character: Claude 3's Training for Ethical Interaction[^8]
 Anthropic explores "character training" in the Claude 3 model, emphasizing attributes like curiosity and open-mindedness while ensuring harm avoidance. This training strategy aims to align AI behavior with ethical norms, enhancing its interactive capabilities in a flexible and responsible manner.
