@@ -1,5 +1,5 @@
 ---
-author: [Shubham, Kriva, Deepti, Sanidhya, Shravani, Pawan, Aisha]
+author: [Shubham,Kriva,Deepti,Sanidhya,Shravani,Pawan,Aisha]
 title: This Month in AI - August 2024
 lastmod: "2024-09-03"
 date: "2024-09-03"
