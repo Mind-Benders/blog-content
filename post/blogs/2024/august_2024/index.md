@@ -19,7 +19,7 @@ August 2024 continued to showcase the transformative power of AI, with innovatio
 ## Revolutionising Diagnostics: AI Detects Diseases Using Just a Photo of Your Tongue [^1]
 Researchers from Iraq and Australia have developed an AI model that can diagnose various diseases with 98% accuracy by analyzing images of patients' tongues. This model combines traditional Chinese medicine's diagnostic principles with cutting-edge AI, marking a significant step forward in non-invasive health assessments.
 
-![AI Diagnostics](ai_diagnostics.png)
+![AI Diagnostics](ai_classroom.png)
 
 ## The UK's First AI-Powered, Teacherless GCSE Class [^2]
 David Game College in London is set to launch the UK’s first teacherless GCSE class this September, utilizing AI and VR technologies to personalize education. This innovative approach aims to address students' strengths and weaknesses but raises concerns about the lack of human interaction in the classroom.
