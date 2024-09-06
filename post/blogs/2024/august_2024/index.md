@@ -9,6 +9,7 @@ categories: [Blog]
 tags: [Month in AI]
 image: poster.png
 aliases: [blog-August-2024]
+
 ---
 
 August 2024 continued to showcase the transformative power of AI, with innovations spanning diagnostics, education, fashion, dairy farming, banking, and more. These developments demonstrate AI's growing influence across industries while raising new ethical and operational challenges.
