@@ -30,3 +30,20 @@ menu:
 |    10   |Vrushali Sandam|Jt. Technical Head  |
 |    11   | Ananta Pandey |Jt. Publication Head|
 |    12   | Sakshi Maurya |Jt. Marketing Head  |
+
+## Core 23-24
+
+| Sr. No. |      Name       |      Position      | 
+|:-------:| :-------------: |:------------------:|
+|    1    | Sharukhali Syed | President          |
+|    2    | Siddhant Shedge | Vice President     |
+|    3    | Shivsagar Mishra| Vice President     |
+|    4    |  Sakshi Maurya  | Secretary          |
+|    5    | Vrushali Sandam | Technical Head     |
+|    6    |  Kanchan Singh  | Marketing Head     |
+|    7    | Saurabha Sawant | Open-Source Head   |
+|    8    |  Ankush Tiwari  | Event Manager      |
+|    9    |    Arya Mane    | Publication Head   | 
+|    10   | Sanket Karmakar |Jt. Publication Head|
+|    11   |  Shivanshu Pasi |Jt. Technical Head  |
+|    12   |   Ritika Lath   |Jt. Marketing Head  |
