@@ -20,7 +20,7 @@ The club offers a variety of events and activities for members to participate in
 
 Overall, this club is the perfect place for anyone who is passionate about data science and machine learning. With a dedicated community of enthusiasts, members will have access to a wealth of knowledge and resources to help them achieve their goals.
 
-## Core 22-23
+## Founding Core 22-23
 
 | Sr. No. |      Name     |      Position      | 
 |:-------:|:-------------:|:------------------:|
