@@ -1,5 +1,5 @@
 ---
-title: Ex-Core
+title: Ex-Cores
 description: List of Previous Core Committe of the Club.
 aliases:
   - ex-core
