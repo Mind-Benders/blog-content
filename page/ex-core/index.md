@@ -47,3 +47,15 @@ menu:
 |    10   | Sanket Karmakar |Jt. Publication Head|
 |    11   |  Shivanshu Pasi |Jt. Technical Head  |
 |    12   |   Ritika Lath   |Jt. Marketing Head  |
+
+## Core 25-26
+
+| Sr. No. |         Name          |             Position             | LinkedIn |
+|:-------:|:---------------------:|:--------------------------------:|:--------:|
+|    1    |     Shubham Bari      | President                        | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/shubham-bari-10x10x10/) |
+|    2    |     Tripti Shetty     | Vice President                   | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/tripti-shetty-a942a327b/) |
+|    3    |      Jatin Gupta      | Technical Head                   | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/jatin-gupta-3453b8290/) |
+|    4    |   Riddhi Ghosalkar    | Secretary                        | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/riddhighosalkar25/) |
+|    5    | Gangotrinath Tripathi | Head of Research And Development | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/gangotrinath-tripathi-864425211/) |
+|    6    |     Ishita Yadav      | Outreach Head                    | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/ishita-yadav-22ish/) |
+
