@@ -7,7 +7,7 @@ slug: tmai-August-2024
 description: Key advancements and challenges in AI during August 2024.
 categories: [Blog]
 tags: [Month in AI]
-image: poster.png
+image: poster.jpg
 aliases: [blog-August-2024]
 
 ---
@@ -19,12 +19,12 @@ August 2024 continued to showcase the transformative power of AI, with innovatio
 ## Revolutionising Diagnostics: AI Detects Diseases Using Just a Photo of Your Tongue [^1]
 Researchers from Iraq and Australia have developed an AI model that can diagnose various diseases with 98% accuracy by analyzing images of patients' tongues. This model combines traditional Chinese medicine's diagnostic principles with cutting-edge AI, marking a significant step forward in non-invasive health assessments.
 
-![AI Diagnostics](ai_classroom.png)
+![AI Diagnostics](ai_classroom.jpg)
 
 ## The UK's First AI-Powered, Teacherless GCSE Class [^2]
 David Game College in London is set to launch the UK’s first teacherless GCSE class this September, utilizing AI and VR technologies to personalize education. This innovative approach aims to address students' strengths and weaknesses but raises concerns about the lack of human interaction in the classroom.
 
-![AI Classroom](ai_classroom.png)
+![AI Classroom](ai_classroom.jpg)
 
 ## AI's Impact on the Fashion Industry [^3]
 The fashion industry is on the cusp of an AI-driven transformation, with technologies like generative AI, virtual try-ons, and blockchain redefining design and customer experiences. AI's integration into fashion could add up to $250 billion to industry profits within the next few years, while also promoting sustainability.
@@ -39,7 +39,7 @@ In Haryana, dairy experts discussed the role of AI in driving sustainable farmin
 ## AI Transforming Private Banking [^5]
 Private banking is undergoing a profound transformation with AI and digital innovation. AI algorithms now analyze vast data sets to identify investment opportunities and trends, automate routine tasks, and enhance client personalization. While these advancements improve efficiency and investment strategies, they also bring challenges related to data privacy and the balance between AI and human oversight.
 
-![AI Banking](ai_banking.png)
+![AI Banking](ai_banking.jpg)
 
 ## Dubai's Hospitality Revolution with AI and Robotics [^6]
 Dubai's luxury hospitality sector is integrating AI, IoT, and robotics to enhance guest experiences. From personalized services to automated room management, these technologies are setting new benchmarks in convenience and luxury while addressing challenges related to data security and maintaining a human touch in service.

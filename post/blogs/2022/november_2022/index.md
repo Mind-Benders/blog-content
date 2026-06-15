@@ -43,7 +43,7 @@ Amazon Web Services (AWS) Machine Learning University is now launching a free pr
 
 Some of the biggest tech names have laid off artificial intelligence (AI) and machine learning employees this fall. AI experts expect AI innovation to continue, even in the midst of a possible recession. "AI will continue to be central to business by cutting costs and increasing innovation," they say.
 
-![](4.jpg)
+![](4.webp)
 
 "AI won't replace humans in the near term," said Vishal Sikka, founder, and CEO of human-centered AI platform, Vian AI. In 2023, the recognition that too many platforms aren't designed for humans to use will increase. More and more systems will be designed to amplify human judgment.
 

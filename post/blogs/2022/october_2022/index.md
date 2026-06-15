@@ -16,7 +16,7 @@ aliases: [blog-october-2022]
 
 A group of experimenters from the University of Washington described a new tool ProteinMPNN, which could help experimenters discover preliminarily unknown proteins and design entirely new bones. It will open an entire new macrocosm of possible proteins for experimenters to design from scratch. 
 
-![A structure of protein discovered by researchers using AI](1.jpg "A structure of protein discovered by researchers using AI")
+![A structure of protein discovered by researchers using AI](1.webp "A structure of protein discovered by researchers using AI")
 
 ProteinMPNN will help experimenters with the inverse problem. Machine literacy will make the whole process a lot more hastily and light, and will allow experimenters to produce fully new proteins and structures on a much larger scale. 
 

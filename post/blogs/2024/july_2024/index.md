@@ -7,7 +7,7 @@ slug: tmai-July-2024
 description: Key advancements and challenges in AI during July 2024.
 categories: [Blog]
 tags: [Month in AI]
-image: poster.png
+image: poster.jpg
 aliases: [blog-July-2024]
 
 ---
