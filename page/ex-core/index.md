@@ -48,14 +48,35 @@ menu:
 |    11   |  Shivanshu Pasi |Jt. Technical Head  |
 |    12   |   Ritika Lath   |Jt. Marketing Head  |
 
+## Core 24-25
+
+| Sr. No. |         Name          |      Position      |
+|:-------:|:---------------------:|:------------------:|
+|    1    |     Aisha Shaikh      | President          |
+|    2    |      Pawan Bisht      | Vice-President     |
+|    3    |       Arya Mane       | Secretary          |
+|    4    |    Sanidhya Sharma    | Technical Head     |
+|    5    |  Nandini Vishwakarma  | Marketing Head     |
+|    6    |     Deepti Singh      | Open Source Head   |
+|    7    |      Piyush Das       | Event Manager      |
+|    8    |      Kriva Shah       | Publication Head   |
+|    9    |     Shubham Bari      | Jt Publication Head|
+|    10   |   Shravani Rivankar   | Jt Technical Head  |
+|    11   |    Swamini Yesade     | Jt Marketing Head  |
+|    12   |     Tripti Shetty     | Jt Marketing Head  |
+|    13   |    Vedangi Pathre     | Outreach Head      |
+|    14   |      Siddhi Naik      | Creative Head      |
+|    15   |    Ayesha Bijnori     | Social Media Head  |
+
 ## Core 25-26
 
-| Sr. No. |         Name          |             Position             | LinkedIn |
-|:-------:|:---------------------:|:--------------------------------:|:--------:|
-|    1    |     Shubham Bari      | President                        | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/shubham-bari-10x10x10/) |
-|    2    |     Tripti Shetty     | Vice President                   | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/tripti-shetty-a942a327b/) |
-|    3    |      Jatin Gupta      | Technical Head                   | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/jatin-gupta-3453b8290/) |
-|    4    |   Riddhi Ghosalkar    | Secretary                        | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/riddhighosalkar25/) |
-|    5    | Gangotrinath Tripathi | Head of Research And Development | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/gangotrinath-tripathi-864425211/) |
-|    6    |     Ishita Yadav      | Outreach Head                    | [![LinkedIn](https://raw.githubusercontent.com/website-line/logos/main/linkedin.png)](https://www.linkedin.com/in/ishita-yadav-22ish/) |
+| Sr. No. |         Name          |             Position             |
+|:-------:|:---------------------:|:--------------------------------:|
+|    1    |     Shubham Bari      | President                        |
+|    2    |     Tripti Shetty     | Vice President                   |
+|    3    |      Jatin Gupta      | Technical Head                   |
+|    4    |   Riddhi Ghosalkar    | Secretary                        |
+|    5    | Gangotrinath Tripathi | Head of Research And Development |
+|    6    |     Ishita Yadav      | Outreach Head                    |
+
 
