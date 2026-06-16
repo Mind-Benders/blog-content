@@ -18,7 +18,7 @@ DeepMind's AlphaDev AI achieves groundbreaking speed improvements in sorting alg
 
 ## Elevating the Shopping Experience with AI Virtual Try-On on Google Shopping. [^2]
 
-![](virtual-try.png)
+![](virtual-try.webp)
 
 Google Shopping has introduced AI Virtual Try-On, a new feature that allows users to virtually try on beauty products before buying them. Using advanced machine learning algorithms and facial recognition technology, the feature provides realistic representations of the products on the user's face. It enhances convenience, addresses concerns about online shopping, and offers a seamless experience. Users can access the feature from Google Search, Google Shopping, or participating retailer websites, making informed decisions with detailed product information and user reviews. This innovation bridges the gap between online and in-store try-ons, revolutionizing the beauty shopping experience.
 
