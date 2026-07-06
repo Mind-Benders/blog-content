@@ -27,7 +27,7 @@ Sundar Pichai noted that enterprise demand for AI is currently outstripping thei
 
 ## 2. The End of "All-You-Can-Eat" AI: Metered Billing Arrives [^2]
 
-![Usage-Based AI Pricing](picture2.png)
+![Usage-Based AI Pricing](Picture2.png)
 
 The era of flat-rate AI subscriptions for developers came to a crashing halt as GitHub Copilot transitioned to usage-based billing on June 1st.
 
@@ -37,7 +37,7 @@ This shift highlights a growing industry realization: the massive GPU costs of r
 
 ## 3. Google DeepMind’s Talent Exodus and "Coding Strike Team" [^3]
 
-![DeepMind Talent Exodus](picture3.png)
+![DeepMind Talent Exodus](Picture3.png)
 
 Google faced a significant internal crisis as six foundational researchers including pioneers in reasoning and training architecture fled to rivals like Meta, OpenAI, and Anthropic in just five months.
 
@@ -47,7 +47,7 @@ The pressure intensified as Gemini 3.5 Pro missed its June deadline, leading to 
 
 ## 4. Architectural Revolution: Diffusion Gemma 4 [^4]
 
-![Next-Generation AI Models](picture4.png)
+![Next-Generation AI Models](Picture4.png)
 
 Google released Gemma 4 12B, a groundbreaking open model that runs locally on just 16GB of memory.
 
@@ -57,7 +57,7 @@ This new architecture is reportedly four times faster than current models and si
 
 ## 5. The First National Security AI Model Ban [^5]
 
-![AI Governance Milestone](picture5.png)
+![AI Governance Milestone](Picture5.png)
 
 In a landmark moment for AI governance, the US government issued its first-ever emergency export control on an AI model, specifically targeting Claude Fable 5.
 
