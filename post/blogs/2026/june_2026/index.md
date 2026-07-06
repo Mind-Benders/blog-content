@@ -19,51 +19,31 @@ June 2026 marked a defining moment in the evolution of artificial intelligence, 
 
 ![AI Infrastructure Expansion](Picture1.png)
 
-Alphabet shattered records by closing a staggering $84.75 billion equity raise, the largest in corporate history, dedicated entirely to AI infrastructure and data centers.
-
-This massive move was anchored by a $10 billion investment from Berkshire Hathaway, signaling Warren Buffett’s confidence in Google’s long-term AI dominance despite recent market volatility.
-
-Sundar Pichai noted that enterprise demand for AI is currently outstripping their compute supply, making this aggressive expansion a strategic necessity.
+Alphabet shattered records by closing a staggering $84.75 billion equity raise, the largest in corporate history, dedicated entirely to AI infrastructure and data centers. This massive move was anchored by a $10 billion investment from Berkshire Hathaway, signaling Warren Buffett’s confidence in Google’s long-term AI dominance despite recent market volatility. Sundar Pichai noted that enterprise demand for AI is currently outstripping their compute supply, making this aggressive expansion a strategic necessity.
 
 ## 2. The End of "All-You-Can-Eat" AI: Metered Billing Arrives [^2]
 
 ![Usage-Based AI Pricing](Picture2.png)
 
-The era of flat-rate AI subscriptions for developers came to a crashing halt as GitHub Copilot transitioned to usage-based billing on June 1st.
-
-Power users were shocked to see monthly bills jump from $29 to as much as $3,000 for heavy "agentic" workflows.
-
-This shift highlights a growing industry realization: the massive GPU costs of running autonomous agents are simply unsustainable under a fixed-fee model.
+The era of flat-rate AI subscriptions for developers came to a crashing halt as GitHub Copilot transitioned to usage-based billing on June 1st. Power users were shocked to see monthly bills jump from $29 to as much as $3,000 for heavy "agentic" workflows. This shift highlights a growing industry realization: the massive GPU costs of running autonomous agents are simply unsustainable under a fixed-fee model.
 
 ## 3. Google DeepMind’s Talent Exodus and "Coding Strike Team" [^3]
 
 ![DeepMind Talent Exodus](Picture3.png)
 
-Google faced a significant internal crisis as six foundational researchers including pioneers in reasoning and training architecture fled to rivals like Meta, OpenAI, and Anthropic in just five months.
-
-In a desperate bid to close the gap with Anthropic, Google co-founder Sergey Brin personally intervened to lead an emergency AI Coding Strike Team.
-
-The pressure intensified as Gemini 3.5 Pro missed its June deadline, leading to a 97% "No Release" payout on prediction markets like Polymarket.
+Google faced a significant internal crisis as six foundational researchers including pioneers in reasoning and training architecture fled to rivals like Meta, OpenAI, and Anthropic in just five months. In a desperate bid to close the gap with Anthropic, Google co-founder Sergey Brin personally intervened to lead an emergency AI Coding Strike Team. The pressure intensified as Gemini 3.5 Pro missed its June deadline, leading to a 97% "No Release" payout on prediction markets like Polymarket.
 
 ## 4. Architectural Revolution: Diffusion Gemma 4 [^4]
 
 ![Next-Generation AI Models](Picture4.png)
 
-Google released Gemma 4 12B, a groundbreaking open model that runs locally on just 16GB of memory.
-
-More importantly, the month saw the rise of Diffusion Gamma/Gemma, which abandons the traditional "next-token" Transformer method in favor of a denoising process similar to Stable Diffusion.
-
-This new architecture is reportedly four times faster than current models and significantly more memory-efficient, marking a potential "hyper-meets-reality" moment for local AI.
+Google released Gemma 4 12B, a groundbreaking open model that runs locally on just 16GB of memory. More importantly, the month saw the rise of Diffusion Gamma/Gemma, which abandons the traditional "next-token" Transformer method in favor of a denoising process similar to Stable Diffusion. This new architecture is reportedly four times faster than current models and significantly more memory-efficient, marking a potential "hyper-meets-reality" moment for local AI.
 
 ## 5. The First National Security AI Model Ban [^5]
 
 ![AI Governance Milestone](Picture5.png)
 
-In a landmark moment for AI governance, the US government issued its first-ever emergency export control on an AI model, specifically targeting Claude Fable 5.
-
-Launched on June 9th and suspended just three days later, the model was deemed a national security risk due to its unprecedented capabilities.
-
-While a subsequent injunction partially restored access for "critical infrastructure defenders," the event signaled that the "wild west" era of unrestricted frontier model releases may be over.
+In a landmark moment for AI governance, the US government issued its first-ever emergency export control on an AI model, specifically targeting Claude Fable 5. Launched on June 9th and suspended just three days later, the model was deemed a national security risk due to its unprecedented capabilities. While a subsequent injunction partially restored access for "critical infrastructure defenders," the event signaled that the "wild west" era of unrestricted frontier model releases may be over.
 
 ## Core Considerations for AI's Practical Integration
 
