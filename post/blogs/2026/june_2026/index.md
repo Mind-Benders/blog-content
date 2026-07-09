@@ -1,8 +1,8 @@
 ---
 author: [Jagdish, Gangotrinath, Ramkumar, Prashant, Pari, Deeksha]
 title: This Month in AI - June 2026
-lastmod: "2026-06-31"
-date: "2026-06-31"
+lastmod: "2026-06-30"
+date: "2026-06-30"
 slug: tmai-june-2026
 description: Key advancements and practical integration of AI during June 2026.
 categories: [Blog]
