@@ -79,4 +79,15 @@ menu:
 |    5    | Gangotrinath Tripathi | Head of Research And Development |
 |    6    |     Ishita Yadav      | Outreach Head                    |
 
+## Core 25-26
+
+| Sr. No. |         Name          |             Position             |
+|:-------:|:---------------------:|:--------------------------------:|
+|    1    |     Jadish Wagh       | President                        |
+|    2    | Gangotrinath Tripathi | Vice President                   |
+|    3    |     Prashant Yadav    | Technical Head                   |
+|    4    |  Ramkumar Chaurasiya  | Secretary                        |
+|    5    |     Pari Bhatnagar    | Head of Research And Development |
+|    6    |   Deeksha Shettigar   | Outreach Head                    |
+
 
