@@ -1,6 +1,6 @@
 ---
 author: [Jagdish, Gangotrinath, Ramkumar, Prashant, Pari, Deeksha]
-title: This Month in AI -  2026
+title: This Month in AI - October 2026
 lastmod: "2026-10-31"
 date: "2026-10-31"
 slug: tmai-october-2026
